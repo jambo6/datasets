@@ -1,0 +1,7 @@
+{
+  "description": "Data used in the BioBert training tasks.",
+  "processed_description": "TODO",
+  "citation": "@article{lee2020biobert,\n  title={BioBERT: a pre-trained biomedical language representation model for biomedical text mining},\n  author={Lee, Jinhyuk and Yoon, Wonjin and Kim, Sungdong and Kim, Donghyeon and Kim, Sunkyu and So, Chan Ho and Kang, Jaewoo},\n  journal={Bioinformatics},\n  volume={36},\n  number={4},\n  pages={1234--1240},\n  year={2020},\n  publisher={Oxford University Press}\n}\n",
+  "homepage": "https://github.com/dmis-lab/biobert",
+  "licence": ""
+}

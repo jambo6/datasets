@@ -37,16 +37,15 @@ class DownloadBase(ABC):
     """Base class for download functionality."""
 
     DATASET_NAME: str
+    MODULE_DIR: Path
 
     def __init__(self, download_location: Path) -> None:
         # Location to dump the raw data
+        self.dataset_info = DatasetInfo(**common.load_json(self.MODULE_DIR / "dataset_info.json"))
         self.download_location = download_location
 
         # Location to save any processed data
         self.processed_location = download_location / "processed"
-
-        # Run info script
-        self.dataset_info = self.populate_info()
 
     def __repr__(self) -> str:
         return pprint.pformat(self.dataset_info.__dict__)
@@ -87,10 +86,6 @@ class DownloadBase(ABC):
         common.make_directory_if_not_exists(self.processed_location)
 
         self._process()
-
-    @abstractmethod
-    def populate_info(self) -> DatasetInfo:
-        pass
 
     @abstractmethod
     def _download(self) -> None:

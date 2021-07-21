@@ -15,9 +15,7 @@ class RenetDownloader(base.DownloadBase):
 
     DATASET_NAME = "RENET2"
     DOWNLOAD_URL: str = "http://www.bio8.cs.hku.hk/RENET2/renet2_data_models.tar.gz"
-
-    def populate_info(self) -> base.DatasetInfo:
-        return base.DatasetInfo(**common.load_json(THIS_DIRECTORY / "dataset_info.json"))
+    MODULE_DIR = common.this_directory(__file__)
 
     def _download(self) -> None:
         # Download the tarfile
