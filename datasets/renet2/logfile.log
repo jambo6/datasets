@@ -1,0 +1,164 @@
+2021-07-21 17:18:09.000 | INFO     | datasets.base:download:32 - Dataset information:
+{'citation': '@article{su2021renet2,\n'
+             '    title={renet2: high-performance full-text gene-disease '
+             'relation extraction with iterative training data expansion},\n'
+             '    author={Su, Junhao and Wu, Ye and Ting, Hing-Fung and Lam, '
+             'Tak-Wah and Luo, Ruibang},\n'
+             '    journal={bioRxiv},\n'
+             '    year={2021},\n'
+             '    publisher={Cold Spring Harbor Laboratory\n'
+             '}',
+ 'description': 'Relation extraction from medical texts including abstracts '
+                'and full-text articles.',
+ 'homepage': 'https://github.com/sujunhao/RENET2',
+ 'licence': '',
+ 'processed_description': 'The two rounds of annotation data and the full-text '
+                          'data presented in single files with text replaced '
+                          'and ready for relation-extraction problems.'}
+2021-07-21 17:18:09.000 | INFO     | datasets.base:download:33 - Beginning download of RENET2 data. This will be saved in ../data/renet2.
+2021-07-21 17:18:09.000 | WARNING  | datasets.base:download:39 - Folder already exists at ../data/renet2 and so the download step is being skipped. Remove this folder to redownload.
+2021-07-21 17:18:09.001 | INFO     | datasets.base:process:52 - Beginning processing of the RENET2 dataset.
+2021-07-21 17:18:09.001 | WARNING  | datasets.base:process:56 - Folder already exists at ../data/renet2/processed and so the download step is being skipped. Remove this folder to reprocess.
+2021-07-21 17:19:10.290 | INFO     | datasets.base:download:32 - Dataset information:
+{'citation': '@article{su2021renet2,\n'
+             '    title={renet2: high-performance full-text gene-disease '
+             'relation extraction with iterative training data expansion},\n'
+             '    author={Su, Junhao and Wu, Ye and Ting, Hing-Fung and Lam, '
+             'Tak-Wah and Luo, Ruibang},\n'
+             '    journal={bioRxiv},\n'
+             '    year={2021},\n'
+             '    publisher={Cold Spring Harbor Laboratory\n'
+             '}',
+ 'description': 'Relation extraction from medical texts including abstracts '
+                'and full-text articles.',
+ 'homepage': 'https://github.com/sujunhao/RENET2',
+ 'licence': '',
+ 'processed_description': 'The two rounds of annotation data and the full-text '
+                          'data presented in single files with text replaced '
+                          'and ready for relation-extraction problems.'}
+2021-07-21 17:19:10.291 | INFO     | datasets.base:download:33 - Beginning download of RENET2 data. This will be saved in ../data/renet2.
+2021-07-21 17:23:47.162 | INFO     | datasets.base:process:52 - Beginning processing of the RENET2 dataset.
+2021-07-21 17:44:09.931 | INFO     | datasets.base:download:56 - Dataset information:
+{'citation': '@article{su2021renet2,\n'
+             '    title={renet2: high-performance full-text gene-disease '
+             'relation extraction with iterative training data expansion},\n'
+             '    author={Su, Junhao and Wu, Ye and Ting, Hing-Fung and Lam, '
+             'Tak-Wah and Luo, Ruibang},\n'
+             '    journal={bioRxiv},\n'
+             '    year={2021},\n'
+             '    publisher={Cold Spring Harbor Laboratory\n'
+             '}',
+ 'description': 'Relation extraction from medical texts including abstracts '
+                'and full-text articles.',
+ 'homepage': 'https://github.com/sujunhao/RENET2',
+ 'licence': '',
+ 'processed_description': 'The two rounds of annotation data and the full-text '
+                          'data presented in single files with text replaced '
+                          'and ready for relation-extraction problems.'}
+2021-07-21 17:44:09.932 | INFO     | datasets.base:download:57 - Beginning download of RENET2 data. This will be saved in ../data/renet2.
+2021-07-21 17:44:09.932 | WARNING  | datasets.base:download:63 - Folder already exists at ../data/renet2 and so the download step is being skipped. Remove this folder to redownload.
+2021-07-21 17:44:09.932 | INFO     | datasets.base:process:76 - Beginning processing of the RENET2 dataset.
+2021-07-21 17:44:09.932 | INFO     | datasets.renet2.renet2:_process:38 - Processing abs_data/1st_ann...
+2021-07-21 17:44:50.830 | INFO     | datasets.base:download:56 - Dataset information:
+{'citation': '@article{su2021renet2,\n'
+             '    title={renet2: high-performance full-text gene-disease '
+             'relation extraction with iterative training data expansion},\n'
+             '    author={Su, Junhao and Wu, Ye and Ting, Hing-Fung and Lam, '
+             'Tak-Wah and Luo, Ruibang},\n'
+             '    journal={bioRxiv},\n'
+             '    year={2021},\n'
+             '    publisher={Cold Spring Harbor Laboratory\n'
+             '}',
+ 'description': 'Relation extraction from medical texts including abstracts '
+                'and full-text articles.',
+ 'homepage': 'https://github.com/sujunhao/RENET2',
+ 'licence': '',
+ 'processed_description': 'The two rounds of annotation data and the full-text '
+                          'data presented in single files with text replaced '
+                          'and ready for relation-extraction problems.'}
+2021-07-21 17:44:50.830 | INFO     | datasets.base:download:57 - Beginning download of RENET2 data. This will be saved in /Users/jambo/Documents/Vidya/code/datasets/data/renet2.
+2021-07-21 17:44:50.831 | WARNING  | datasets.base:download:63 - Folder already exists at /Users/jambo/Documents/Vidya/code/datasets/data/renet2 and so the download step is being skipped. Remove this folder to redownload.
+2021-07-21 17:44:50.831 | INFO     | datasets.base:process:76 - Beginning processing of the RENET2 dataset.
+2021-07-21 17:44:50.831 | INFO     | datasets.renet2.renet2:_process:38 - Processing abs_data/1st_ann...
+2021-07-21 17:45:28.632 | INFO     | datasets.base:download:56 - Dataset information:
+{'citation': '@article{su2021renet2,\n'
+             '    title={renet2: high-performance full-text gene-disease '
+             'relation extraction with iterative training data expansion},\n'
+             '    author={Su, Junhao and Wu, Ye and Ting, Hing-Fung and Lam, '
+             'Tak-Wah and Luo, Ruibang},\n'
+             '    journal={bioRxiv},\n'
+             '    year={2021},\n'
+             '    publisher={Cold Spring Harbor Laboratory\n'
+             '}',
+ 'description': 'Relation extraction from medical texts including abstracts '
+                'and full-text articles.',
+ 'homepage': 'https://github.com/sujunhao/RENET2',
+ 'licence': '',
+ 'processed_description': 'The two rounds of annotation data and the full-text '
+                          'data presented in single files with text replaced '
+                          'and ready for relation-extraction problems.'}
+2021-07-21 17:45:28.632 | INFO     | datasets.base:download:57 - Beginning download of RENET2 data. This will be saved in /Users/jambo/Documents/Vidya/code/datasets/data/renet2.
+2021-07-21 17:45:28.632 | WARNING  | datasets.base:download:63 - Folder already exists at /Users/jambo/Documents/Vidya/code/datasets/data/renet2 and so the download step is being skipped. Remove this folder to redownload.
+2021-07-21 17:45:28.632 | INFO     | datasets.base:process:76 - Beginning processing of the RENET2 dataset.
+2021-07-21 17:45:28.633 | INFO     | datasets.renet2.renet2:_process:38 - Processing abs_data/1st_ann...
+2021-07-21 17:45:30.338 | INFO     | datasets.renet2.renet2:_process:38 - Processing abs_data/2nd_ann...
+2021-07-21 17:45:32.017 | INFO     | datasets.renet2.renet2:_process:38 - Processing ft_data...
+2021-07-21 17:45:32.090 | WARNING  | datasets.renet2.processors:build_relation_extraction_nlp_data:133 - Could not find correct associations for PMID: 16963499, Gene: 54487, Disease: C563466, Label: 0.0
+2021-07-21 17:45:32.109 | WARNING  | datasets.renet2.processors:build_relation_extraction_nlp_data:133 - Could not find correct associations for PMID: 19059699, Gene: 4352, Disease: D001855, Label: 1.0
+2021-07-21 17:45:32.109 | WARNING  | datasets.renet2.processors:build_relation_extraction_nlp_data:133 - Could not find correct associations for PMID: 19059699, Gene: 4352, Disease: D005198, Label: 0.0
+2021-07-21 17:45:32.118 | WARNING  | datasets.renet2.processors:build_relation_extraction_nlp_data:133 - Could not find correct associations for PMID: 19191756, Gene: 5741, Disease: D016301, Label: 0.0
+2021-07-21 17:45:32.169 | WARNING  | datasets.renet2.processors:build_relation_extraction_nlp_data:133 - Could not find correct associations for PMID: 21364575, Gene: 10178, Disease: D001943, Label: 0.0
+2021-07-21 17:45:32.171 | WARNING  | datasets.renet2.processors:build_relation_extraction_nlp_data:133 - Could not find correct associations for PMID: 21388547, Gene: 10273, Disease: D009101, Label: 0.0
+2021-07-21 17:45:32.175 | WARNING  | datasets.renet2.processors:build_relation_extraction_nlp_data:133 - Could not find correct associations for PMID: 21396159, Gene: 3557, Disease: C566610, Label: 0.0
+2021-07-21 17:45:32.176 | WARNING  | datasets.renet2.processors:build_relation_extraction_nlp_data:133 - Could not find correct associations for PMID: 21396159, Gene: 3557, Disease: D062787, Label: 0.0
+2021-07-21 17:45:32.188 | WARNING  | datasets.renet2.processors:build_relation_extraction_nlp_data:133 - Could not find correct associations for PMID: 21934688, Gene: 6302, Disease: D001943, Label: 0.0
+2021-07-21 17:45:32.192 | WARNING  | datasets.renet2.processors:build_relation_extraction_nlp_data:133 - Could not find correct associations for PMID: 21983962, Gene: 54583, Disease: D005198, Label: 0.0
+2021-07-21 17:45:32.206 | WARNING  | datasets.renet2.processors:build_relation_extraction_nlp_data:133 - Could not find correct associations for PMID: 22337246, Gene: 1351, Disease: D001172, Label: 0.0
+2021-07-21 17:45:32.243 | WARNING  | datasets.renet2.processors:build_relation_extraction_nlp_data:133 - Could not find correct associations for PMID: 23022873, Gene: 7295, Disease: D062787, Label: 0.0
+2021-07-21 17:45:32.246 | WARNING  | datasets.renet2.processors:build_relation_extraction_nlp_data:133 - Could not find correct associations for PMID: 23225887, Gene: 3553, Disease: D001281, Label: 0.0
+2021-07-21 17:45:32.313 | WARNING  | datasets.renet2.processors:build_relation_extraction_nlp_data:133 - Could not find correct associations for PMID: 24080184, Gene: 6548, Disease: D003643, Label: 0.0
+2021-07-21 17:45:32.314 | WARNING  | datasets.renet2.processors:build_relation_extraction_nlp_data:133 - Could not find correct associations for PMID: 24080184, Gene: 6548, Disease: D003645, Label: 1.0
+2021-07-21 17:45:32.314 | WARNING  | datasets.renet2.processors:build_relation_extraction_nlp_data:133 - Could not find correct associations for PMID: 24080184, Gene: 6548, Disease: D004827, Label: 1.0
+2021-07-21 17:45:32.315 | WARNING  | datasets.renet2.processors:build_relation_extraction_nlp_data:133 - Could not find correct associations for PMID: 24080184, Gene: 6548, Disease: D006130, Label: 1.0
+2021-07-21 17:45:32.347 | WARNING  | datasets.renet2.processors:build_relation_extraction_nlp_data:133 - Could not find correct associations for PMID: 24509439, Gene: 2335, Disease: C537734, Label: 0.0
+2021-07-21 17:45:32.347 | WARNING  | datasets.renet2.processors:build_relation_extraction_nlp_data:133 - Could not find correct associations for PMID: 24509439, Gene: 2335, Disease: D014842, Label: 0.0
+2021-07-21 17:45:32.347 | WARNING  | datasets.renet2.processors:build_relation_extraction_nlp_data:133 - Could not find correct associations for PMID: 24509439, Gene: 2335, Disease: D017180, Label: 0.0
+2021-07-21 17:45:32.381 | WARNING  | datasets.renet2.processors:build_relation_extraction_nlp_data:133 - Could not find correct associations for PMID: 25273894, Gene: 5243, Disease: D011535, Label: 0.0
+2021-07-21 17:45:32.407 | WARNING  | datasets.renet2.processors:build_relation_extraction_nlp_data:133 - Could not find correct associations for PMID: 25926995, Gene: 5327, Disease: D016470, Label: 0.0
+2021-07-21 17:45:32.416 | WARNING  | datasets.renet2.processors:build_relation_extraction_nlp_data:133 - Could not find correct associations for PMID: 25946018, Gene: 7099, Disease: D005198, Label: 0.0
+2021-07-21 17:45:32.417 | WARNING  | datasets.renet2.processors:build_relation_extraction_nlp_data:133 - Could not find correct associations for PMID: 25946018, Gene: 7099, Disease: D011595, Label: 0.0
+2021-07-21 17:45:32.423 | WARNING  | datasets.renet2.processors:build_relation_extraction_nlp_data:133 - Could not find correct associations for PMID: 25965909, Gene: 930, Disease: D013313, Label: 0.0
+2021-07-21 17:45:32.436 | WARNING  | datasets.renet2.processors:build_relation_extraction_nlp_data:133 - Could not find correct associations for PMID: 26243863, Gene: 2064, Disease: D006816, Label: 0.0
+2021-07-21 17:45:32.448 | WARNING  | datasets.renet2.processors:build_relation_extraction_nlp_data:133 - Could not find correct associations for PMID: 26410082, Gene: 5307, Disease: D003025, Label: 0.0
+2021-07-21 17:45:32.449 | WARNING  | datasets.renet2.processors:build_relation_extraction_nlp_data:133 - Could not find correct associations for PMID: 26410082, Gene: 673, Disease: D015179, Label: 1.0
+2021-07-21 17:45:32.469 | WARNING  | datasets.renet2.processors:build_relation_extraction_nlp_data:133 - Could not find correct associations for PMID: 26796641, Gene: 132954, Disease: D002311, Label: 0.0
+2021-07-21 17:45:32.470 | WARNING  | datasets.renet2.processors:build_relation_extraction_nlp_data:133 - Could not find correct associations for PMID: 26796641, Gene: 5266, Disease: D002311, Label: 0.0
+2021-07-21 17:45:32.470 | WARNING  | datasets.renet2.processors:build_relation_extraction_nlp_data:133 - Could not find correct associations for PMID: 26796641, Gene: 7015, Disease: D002311, Label: 0.0
+2021-07-21 17:45:32.516 | WARNING  | datasets.renet2.processors:build_relation_extraction_nlp_data:133 - Could not find correct associations for PMID: 27222925, Gene: 5354, Disease: D004401, Label: 0.0
+2021-07-21 17:45:32.517 | WARNING  | datasets.renet2.processors:build_relation_extraction_nlp_data:133 - Could not find correct associations for PMID: 27222925, Gene: 5354, Disease: D009127, Label: 0.0
+2021-07-21 17:45:32.519 | WARNING  | datasets.renet2.processors:build_relation_extraction_nlp_data:133 - Could not find correct associations for PMID: 27222925, Gene: 5354, Disease: D011015, Label: 0.0
+2021-07-21 17:45:32.553 | WARNING  | datasets.renet2.processors:build_relation_extraction_nlp_data:133 - Could not find correct associations for PMID: 27525306, Gene: 3082, Disease: D011535, Label: 0.0
+2021-07-21 17:45:32.565 | WARNING  | datasets.renet2.processors:build_relation_extraction_nlp_data:133 - Could not find correct associations for PMID: 27642274, Gene: 2516, Disease: D003681, Label: 0.0
+2021-07-21 17:45:32.566 | WARNING  | datasets.renet2.processors:build_relation_extraction_nlp_data:133 - Could not find correct associations for PMID: 27642274, Gene: 2516, Disease: D005198, Label: 0.0
+2021-07-21 17:45:32.566 | WARNING  | datasets.renet2.processors:build_relation_extraction_nlp_data:133 - Could not find correct associations for PMID: 27642274, Gene: 2516, Disease: D011595, Label: 0.0
+2021-07-21 17:45:32.579 | WARNING  | datasets.renet2.processors:build_relation_extraction_nlp_data:133 - Could not find correct associations for PMID: 27808126, Gene: 7295, Disease: D011125, Label: 0.0
+2021-07-21 17:45:32.585 | WARNING  | datasets.renet2.processors:build_relation_extraction_nlp_data:133 - Could not find correct associations for PMID: 27880818, Gene: 6566, Disease: D005198, Label: 0.0
+2021-07-21 17:45:32.585 | WARNING  | datasets.renet2.processors:build_relation_extraction_nlp_data:133 - Could not find correct associations for PMID: 27880818, Gene: 6566, Disease: D011535, Label: 0.0
+2021-07-21 17:45:32.611 | WARNING  | datasets.renet2.processors:build_relation_extraction_nlp_data:133 - Could not find correct associations for PMID: 28612977, Gene: 671, Disease: D000275, Label: 0.0
+2021-07-21 17:45:32.620 | WARNING  | datasets.renet2.processors:build_relation_extraction_nlp_data:133 - Could not find correct associations for PMID: 28777375, Gene: 598, Disease: C537985, Label: 0.0
+2021-07-21 17:45:32.626 | WARNING  | datasets.renet2.processors:build_relation_extraction_nlp_data:133 - Could not find correct associations for PMID: 28811962, Gene: 4919, Disease: D005198, Label: 0.0
+2021-07-21 17:45:32.627 | WARNING  | datasets.renet2.processors:build_relation_extraction_nlp_data:133 - Could not find correct associations for PMID: 28811962, Gene: 4919, Disease: D014842, Label: 0.0
+2021-07-21 17:45:32.648 | WARNING  | datasets.renet2.processors:build_relation_extraction_nlp_data:133 - Could not find correct associations for PMID: 29393430, Gene: 79727, Disease: D030342, Label: 0.0
+2021-07-21 17:45:32.701 | WARNING  | datasets.renet2.processors:build_relation_extraction_nlp_data:133 - Could not find correct associations for PMID: 29955035, Gene: 10855, Disease: C535729, Label: 0.0
+2021-07-21 17:45:32.703 | WARNING  | datasets.renet2.processors:build_relation_extraction_nlp_data:133 - Could not find correct associations for PMID: 29955035, Gene: 10855, Disease: D011535, Label: 0.0
+2021-07-21 17:45:32.715 | WARNING  | datasets.renet2.processors:build_relation_extraction_nlp_data:133 - Could not find correct associations for PMID: 30017315, Gene: 1194357, Disease: D053632, Label: 0.0
+2021-07-21 17:45:32.718 | WARNING  | datasets.renet2.processors:build_relation_extraction_nlp_data:133 - Could not find correct associations for PMID: 30024510, Gene: 2678, Disease: D001145, Label: 0.0
+2021-07-21 17:45:32.719 | WARNING  | datasets.renet2.processors:build_relation_extraction_nlp_data:133 - Could not find correct associations for PMID: 30024510, Gene: 2678, Disease: D002761, Label: 0.0
+2021-07-21 17:45:32.720 | WARNING  | datasets.renet2.processors:build_relation_extraction_nlp_data:133 - Could not find correct associations for PMID: 30024510, Gene: 2678, Disease: D004066, Label: 0.0
+2021-07-21 17:45:32.721 | WARNING  | datasets.renet2.processors:build_relation_extraction_nlp_data:133 - Could not find correct associations for PMID: 30024510, Gene: 2678, Disease: D009369, Label: 0.0
+2021-07-21 17:45:32.721 | WARNING  | datasets.renet2.processors:build_relation_extraction_nlp_data:133 - Could not find correct associations for PMID: 30024510, Gene: 2678, Disease: D010182, Label: 0.0
+2021-07-21 17:45:32.727 | WARNING  | datasets.renet2.processors:build_relation_extraction_nlp_data:133 - Could not find correct associations for PMID: 30062756, Gene: 29126, Disease: D001749, Label: 0.0
+2021-07-21 17:45:32.727 | WARNING  | datasets.renet2.processors:build_relation_extraction_nlp_data:133 - Could not find correct associations for PMID: 30062756, Gene: 29126, Disease: D002277, Label: 0.0
+2021-07-21 17:45:32.805 | WARNING  | datasets.renet2.processors:build_relation_extraction_nlp_data:133 - Could not find correct associations for PMID: 31000713, Gene: 22835, Disease: D020964, Label: 0.0
+2021-07-21 17:45:32.971 | WARNING  | datasets.renet2.processors:build_relation_extraction_nlp_data:133 - Could not find correct associations for PMID: 32310621, Gene: 7124, Disease: C000657245, Label: 0.0
+2021-07-21 17:45:33.786 | INFO     | datasets.renet2.renet2:_process:64 - Processing successful.

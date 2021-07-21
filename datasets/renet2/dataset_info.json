@@ -1,0 +1,7 @@
+{
+  "description": "Relation extraction from medical texts including abstracts and full-text articles.",
+  "processed_description": "The two rounds of annotation data and the full-text data presented in single files with text replaced and ready for relation-extraction problems.",
+  "citation": "@article{su2021renet2,\n    title={renet2: high-performance full-text gene-disease relation extraction with iterative training data expansion},\n    author={Su, Junhao and Wu, Ye and Ting, Hing-Fung and Lam, Tak-Wah and Luo, Ruibang},\n    journal={bioRxiv},\n    year={2021},\n    publisher={Cold Spring Harbor Laboratory\n}",
+  "homepage": "https://github.com/sujunhao/RENET2",
+  "licence": ""
+}
