@@ -10,7 +10,7 @@ import pandas as pd
 
 from datasets import common
 
-logger = common.get_logger(common.this_directory(__file__) / "logfile.log")
+logger = common.get_logger()
 
 
 def open_re(folder: Path) -> pd.DataFrame:

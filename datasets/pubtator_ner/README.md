@@ -1,0 +1,2 @@
+# Pubtator Annotation
+This directory is called `pubtator_ner` so as to avoid a naming conflict with the `pubtator` module. The `ner` stands for 'named entity recognition' which is what pubtator adds to a standard Pubmed search.

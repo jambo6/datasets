@@ -5,9 +5,6 @@ import wget
 
 from datasets import base, common
 from datasets.renet2 import processors
-from datasets.renet2.processors import logger
-
-THIS_DIRECTORY = common.this_directory(__file__)
 
 
 class RenetDownloader(base.DownloadBase):
@@ -16,6 +13,7 @@ class RenetDownloader(base.DownloadBase):
     DATASET_NAME = "RENET2"
     DOWNLOAD_URL: str = "http://www.bio8.cs.hku.hk/RENET2/renet2_data_models.tar.gz"
     MODULE_DIR = common.this_directory(__file__)
+    LOGGER = processors.logger
 
     def _download(self) -> None:
         # Download the tarfile
@@ -33,7 +31,7 @@ class RenetDownloader(base.DownloadBase):
         locations = ["abs_data/1st_ann", "abs_data/2nd_ann", "ft_data"]
 
         for location in locations:
-            logger.info("Processing {}...".format(location))
+            self.LOGGER.info("Processing {}...".format(location))
 
             location_directory = self.download_location / "data" / location
 
@@ -59,4 +57,4 @@ class RenetDownloader(base.DownloadBase):
             # Save
             frame.to_csv(self.processed_location / "{}.csv".format(location.split("/")[-1]))
 
-        logger.info("Processing successful.")
+        self.LOGGER.info("Processing successful.")

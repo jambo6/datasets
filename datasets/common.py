@@ -2,8 +2,9 @@ import json
 import os
 import sys
 import tarfile
+import zipfile
 from pathlib import Path
-from typing import Any, Union
+from typing import Any, Optional, Union
 
 from loguru import logger
 
@@ -14,10 +15,16 @@ def make_directory_if_not_exists(path: Union[Path, str]) -> None:
         os.mkdir(path)
 
 
-def untar(tarname: Union[Path, str], download_location: Union[Path, str]) -> None:
+def untar(tarname: Union[Path, str], extract_directory: Union[Path, str]) -> None:
     """Untar a filename to a specified location."""
     tar = tarfile.open(tarname)
-    tar.extractall(download_location)
+    tar.extractall(extract_directory)
+
+
+def unzip(zipname: Union[Path, str], extract_directory: Union[Path, str]) -> None:
+    """Unzip a filename to a specified location."""
+    with zipfile.ZipFile(zipname, "r") as zfile:
+        zfile.extractall(extract_directory)
 
 
 def load_json(filename: Union[Path, str]) -> dict[Any, Any]:
@@ -31,8 +38,9 @@ def this_directory(file: str) -> Path:
     return Path(file).parent
 
 
-def get_logger(logfile: Union[Path, str]) -> logger:
+def get_logger(logfile: Optional[Union[Path, str]] = None) -> logger:
     """Returns a loguru logger."""
     logger.add(sys.stderr, format="{time} {level} {message}", filter="my_module", level="INFO")
-    logger.add(logfile)
+    if logfile:
+        logger.add(logfile)
     return logger

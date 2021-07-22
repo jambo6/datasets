@@ -3,6 +3,7 @@ import pprint
 from abc import ABC, abstractmethod
 from dataclasses import dataclass, field
 from pathlib import Path
+from typing import Optional, Union
 
 from loguru import logger
 
@@ -34,12 +35,37 @@ class DatasetInfo:
 
 
 class DownloadBase(ABC):
-    """Base class for download functionality."""
+    """Base class for download functionality.
+
+    Constructor arguments:
+        DATASET_NAME: Name of the dataset.
+        MODULE_DIR: Directory of the dataset module being run, this will be initialised as Path(__file__.parent[0])
+        LOGGER: The logger to use for the dataset.
+
+    Attributes:
+        dataset_info: A DatasetInfo class initialised from the `dataset_info.json` file in `MODULE_DIR`.
+        processed_location: The location to save processed information to, this is just `download_directory/processed`.
+    """
 
     DATASET_NAME: str
     MODULE_DIR: Path
+    LOGGER: logger
 
-    def __init__(self, download_location: Path) -> None:
+    def __init__(self, download_location: Union[Path, str], log_directory: Optional[Union[Path, str]] = None) -> None:
+        """
+        Arguments:
+            download_location: The location to download the data to.
+            log_directory: The directory to print the logs to. Defaults to the download_location.
+        """
+        # Conversion to standard format
+        if isinstance(download_location, str):
+            download_location = Path(download_location)
+
+        # Add logfile
+        if not log_directory:
+            log_directory = download_location
+        self.LOGGER.add("{}/{}.logs".format(log_directory, self.DATASET_NAME))
+
         # Location to dump the raw data
         self.dataset_info = DatasetInfo(**common.load_json(self.MODULE_DIR / "dataset_info.json"))
         self.download_location = download_location
@@ -52,14 +78,14 @@ class DownloadBase(ABC):
 
     def download(self) -> None:
         """Acts as a decorator around the _download function."""
-        logger.info("Dataset information:\n{}".format(self))
-        logger.info(
+        self.LOGGER.info("Dataset information:\n{}".format(self))
+        self.LOGGER.info(
             "Beginning download of {} data. This will be saved in {}.".format(self.DATASET_NAME, self.download_location)
         )
 
         # Check not exists
         if os.path.isdir(self.download_location):
-            logger.warning(
+            self.LOGGER.warning(
                 "Folder already exists at {} and so the download step is being skipped. Remove this folder to "
                 "redownload.".format(self.download_location)
             )
@@ -68,11 +94,14 @@ class DownloadBase(ABC):
         # Make directory
         common.make_directory_if_not_exists(self.download_location)
 
+        # Main download function
         self._download()
+
+        self.LOGGER.info("{} download successful.".format(self.DATASET_NAME))
 
     def process(self) -> None:
         """Acts as a decorator around the _process function."""
-        logger.info("Beginning processing of the {} dataset.".format(self.DATASET_NAME))
+        self.LOGGER.info("Beginning processing of the {} dataset.".format(self.DATASET_NAME))
 
         # Check not exists
         if os.path.isdir(self.processed_location):

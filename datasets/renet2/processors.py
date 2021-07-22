@@ -7,7 +7,7 @@ from pubtator import parse
 from datasets import common
 from datasets.splitters import StratifiedGroupKFold  # type: ignore
 
-logger = common.get_logger(common.this_directory(__file__) / "logfile.log")
+logger = common.get_logger()
 
 
 def load_documents(filename: str, split_by: str) -> dict[int, str]:

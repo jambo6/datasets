@@ -1,0 +1,7 @@
+{
+  "description": "Full dump of the disgenet data.",
+  "processed_description": "",
+  "citation": "@article{pinero2016disgenet,\n  title={DisGeNET: a comprehensive platform integrating information on human disease-associated genes and variants},\n  author={Pi{\\~n}ero, Janet and Bravo, {\\`A}lex and Queralt-Rosinach, N{\\'u}ria and Guti{\\'e}rrez-Sacrist{\\'a}n, Alba and Deu-Pons, Jordi and Centeno, Emilio and Garc{\\'\\i}a-Garc{\\'\\i}a, Javier and Sanz, Ferran and Furlong, Laura I},\n  journal={Nucleic acids research},\n  pages={gkw943},\n  year={2016},\n  publisher={Oxford University Press}\n}\n",
+  "homepage": "https://www.disgenet.org/downloads",
+  "licence": ""
+}
