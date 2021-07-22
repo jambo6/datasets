@@ -1,0 +1,7 @@
+{
+  "description": "Downloads and processes the PubTator abstract data. PubTator allows queries to be made in batches of 100, so we simply iterate over these. If not all abstracts are required, then it is a good idea to specify upfront which are wanted.",
+  "processed_description": "",
+  "citation": "@article{wei2013pubtator,\n  title={PubTator: a web-based text mining tool for assisting biocuration},\n  author={Wei, Chih-Hsuan and Kao, Hung-Yu and Lu, Zhiyong},\n  journal={Nucleic acids research},\n  volume={41},\n  number={W1},\n  pages={W518--W522},\n  year={2013},\n  publisher={Oxford University Press}\n}\n",
+  "homepage": "https://www.ncbi.nlm.nih.gov/research/pubtator/",
+  "licence": ""
+}
