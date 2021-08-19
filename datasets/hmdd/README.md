@@ -25,7 +25,7 @@ http://www.cuilab.cn/hmdd/
 
 ### Citation
 
-```angular2html
+```bibtex
 @article{huang2019hmdd,
   title={HMDD v3. 0: a database for experimentally supported human microRNA--disease associations},
   author={Huang, Zhou and Shi, Jiangcheng and Gao, Yuanxu and Cui, Chunmei and Zhang, Shan and Li, Jianwei and Zhou, Yuan and Cui, Qinghua},
