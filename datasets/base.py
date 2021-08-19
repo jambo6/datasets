@@ -17,7 +17,7 @@ class DatasetInfo:
     `DatasetInfo` documents information about the raw dataset being downloaded, and any processing results that amount
     from class `process` methods.
 
-    Attributes:
+    Constructor arguments:
         description (str): A description of the dataset.
         processed_description (str, optional): A description of the processed function applied to the raw data.
         citation (str): A BibTeX citation of the dataset.
@@ -73,7 +73,7 @@ class DownloadBase(ABC):
         # Location to save any processed data
         self.processed_location = download_location / "processed"
 
-    def __repr__(self) -> str:
+    def __str__(self) -> str:
         return pprint.pformat(self.dataset_info.__dict__)
 
     def download(self) -> None:
@@ -85,11 +85,12 @@ class DownloadBase(ABC):
 
         # Check not exists
         if os.path.isdir(self.download_location):
-            self.LOGGER.warning(
-                "Folder already exists at {} and so the download step is being skipped. Remove this folder to "
-                "redownload.".format(self.download_location)
-            )
-            return None
+            if len([x for x in os.listdir(self.download_location) if not x.endswith(".logs")]) > 0:
+                self.LOGGER.warning(
+                    "Folder already exists at {} and so the download step is being skipped. Remove this folder to "
+                    "redownload.".format(self.download_location)
+                )
+                return None
 
         # Make directory
         common.make_directory_if_not_exists(self.download_location)
