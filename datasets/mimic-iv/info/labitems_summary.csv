@@ -1,930 +1,930 @@
 name,total_measurements,total_people,fluid
-% Hemoglobin A1c,231052,77898,Blood
-24 hr Calcium,2110,1505,Urine
-24 hr Creatinine,8927,5155,Urine
-24 hr Protein,3908,2181,Urine
-25-OH Vitamin D,79944,31161,Blood
-<Albumin>,37,37,Cerebrospinal Fluid
-ADP,320,294,Blood
-ANCA Titer,57,39,Blood
-APT Test,4,4,Blood
-ARCH-1,25313,18258,Blood
-Absolute A1c,548,516,Blood
-Absolute Basophil Count,517586,119607,Blood
-Absolute CD3 Count,27148,4693,Blood
-Absolute CD4 Count,27149,4693,Blood
-Absolute CD8 Count,27148,4693,Blood
-Absolute Eosinophil Count,517630,119611,Blood
-Absolute Hemoglobin,548,516,Blood
-Absolute Lymphocyte Count,517586,119607,Blood
-Absolute Lymphocyte Count,27148,4693,Blood
-Absolute Monocyte Count,517587,119607,Blood
-Absolute Neutrophil Count,539821,119681,Blood
-Acanthocytes,14877,8818,Blood
-Acetaminophen,89824,56887,Blood
-Acetone,1659,1342,Blood
-Alanine Aminotransferase (ALT),1379280,169611,Blood
-Albumin,763795,136170,Blood
-"Albumin, Ascites",6226,2819,Ascites
-"Albumin, Body Fluid",636,600,Other Body Fluid
-"Albumin, Joint Fluid",9,9,Joint Fluid
-"Albumin, Pleural",4726,3104,Pleural
-"Albumin, Stool",1,1,Stool
-"Albumin, Urine",58832,20229,Urine
-"Albumin/Creatinine, Urine",56688,19791,Urine
-Alkaline Phosphatase,1197696,157545,Blood
-Alpha-Fetoprotein,30961,8070,Blood
-Alveolar-arterial Gradient,14423,7670,Blood
-Amikacin,560,110,Blood
-Ammonia,7322,4232,Blood
-Ammonium Biurate,25,25,Urine
-Amorphous Crystals,34369,25501,Urine
-"Amphetamine Screen, Urine",82566,47804,Urine
-Amylase,85894,33123,Blood
-"Amylase, Ascites",3366,1964,Ascites
-"Amylase, Body Fluid",1351,1016,Other Body Fluid
-"Amylase, Joint Fluid",6,5,Joint Fluid
-"Amylase, Pleural",1886,1471,Pleural
-"Amylase, Urine",117,81,Urine
-"Amylase/Creatinine Ratio, Urine",115,80,Urine
-Anat Path Hold,2516,2142,Other Body Fluid
-Anion Gap,3077930,249345,Blood
-Anion Gap,350,301,Blood
-Anisocytosis,260472,61768,Blood
-Anti-DGP (IgA/IgG),1415,1214,Blood
-"Anti-Gliadin Antibody, IgA",123,118,Blood
-Anti-Mitochondrial Antibody,6088,5519,Blood
-Anti-Neutrophil Cytoplasmic Antibody,6770,5695,Blood
-Anti-Nuclear Antibody,27321,21377,Blood
-"Anti-Nuclear Antibody, Titer",7827,6021,Blood
-Anti-Parietal Cell Antibody,151,144,Blood
-Anti-Smooth Muscle Antibody,6659,5987,Blood
-Anti-Thyroglobulin Antibodies,7048,3211,Blood
-Anticardiolipin Antibody IgG,2640,2210,Blood
-Anticardiolipin Antibody IgM,2640,2210,Blood
-Antithrombin,2191,1389,Blood
-Arachadonic Acid,330,302,Blood
-Asparate Aminotransferase (AST),1350499,167373,Blood
-Assist/Control,22237,8244,Blood
-Atypical Lymphocytes,223293,47974,Blood
-Atypical Lymphocytes,452,355,Ascites
-Atypical Lymphocytes,959,693,Cerebrospinal Fluid
-Atypical Lymphocytes,404,356,Pleural
-Atypical Lymphocytes,139,134,Joint Fluid
-Atypical Lymphocytes,143,136,Other Body Fluid
-Bacteria,497734,154925,Urine
-Bands,242318,52860,Blood
-Bands,190,174,Other Body Fluid
-Bands,216,203,Joint Fluid
-Bands,650,497,Cerebrospinal Fluid
-Bands,187,176,Pleural
-Bands,281,256,Ascites
-Barbiturate Screen,73500,47351,Blood
-"Barbiturate Screen, Urine",81922,47707,Urine
-Base Excess,561663,60979,Blood
-Basophilic Stippling,14505,6396,Blood
-Basophils,1294505,247997,Blood
-Basophils,447,388,Pleural
-Basophils,347,288,Cerebrospinal Fluid
-Basophils,333,296,Ascites
-Basophils,191,178,Other Body Fluid
-Basophils,172,165,Joint Fluid
-Benzodiazepine Screen,73600,47379,Blood
-"Benzodiazepine Screen, Urine",82719,47779,Urine
-Beta Hydroxybutyrate,339,244,Blood
-Beta-2 Microglobulin,8280,2624,Blood
+Hematocrit,3453735,270179,Blood
+Creatinine,3378967,252860,Blood
+Platelet Count,3333297,269788,Blood
+Hemoglobin,3301290,269415,Blood
+White Blood Cells,3283948,269355,Blood
+Urea Nitrogen,3283383,250978,Blood
+MCHC,3278783,269311,Blood
+Red Blood Cells,3278658,269311,Blood
+MCV,3278657,269311,Blood
+MCH,3278656,269311,Blood
+RDW,3278433,269302,Blood
+Potassium,3270701,250722,Blood
+Sodium,3239236,250592,Blood
+Chloride,3202975,250406,Blood
 Bicarbonate,3085714,249437,Blood
-"Bicarbonate, Ascites",37,26,Ascites
-"Bicarbonate, Other Fluid",193,67,Other Body Fluid
-"Bicarbonate, Pleural",6,6,Pleural
-"Bicarbonate, Stool",49,37,Stool
-"Bicarbonate, Urine",2565,2214,Urine
+Anion Gap,3077930,249345,Blood
+Glucose,2829673,246407,Blood
+"Calcium, Total",2247740,174852,Blood
+Magnesium,2206137,165758,Blood
+Phosphate,2117240,164458,Blood
+H,1457702,124299,Blood
+L,1457685,124290,Blood
+I,1457680,124302,Blood
+INR(PT),1447066,165412,Blood
+PT,1446375,165405,Blood
+Estimated GFR (MDRD equation),1418862,250985,Blood
+Alanine Aminotransferase (ALT),1379280,169611,Blood
+RDW-SD,1361263,130663,Blood
+Asparate Aminotransferase (AST),1350499,167373,Blood
+PTT,1303590,161671,Blood
+"Bilirubin, Total",1302845,213403,Blood
+Lymphocytes,1294510,247997,Blood
+Neutrophils,1294510,247997,Blood
+Monocytes,1294509,247997,Blood
+Basophils,1294505,247997,Blood
+Eosinophils,1294505,247997,Blood
+Alkaline Phosphatase,1197696,157545,Blood
+Albumin,763795,136170,Blood
+Leukocytes,707831,197748,Urine
+Specific Gravity,707831,197748,Urine
+Urine Appearance,707831,197748,Urine
+pH,707831,197748,Urine
+Blood,707827,197748,Urine
+Glucose,707826,197748,Urine
+Protein,707826,197748,Urine
 Bilirubin,707825,197748,Urine
-Bilirubin,531,370,Urine
-Bilirubin Crystals,88,86,Urine
+Ketone,707825,197748,Urine
+Nitrite,707824,197748,Urine
+Urobilinogen,707824,197748,Urine
+Length of Urine Collection,662041,173076,Urine
+Specimen Type,655495,72669,Blood
+pH,617021,65644,Blood
+pO2,561664,60938,Blood
+Base Excess,561663,60979,Blood
+Calculated Total CO2,561660,60979,Blood
+pCO2,561473,60944,Blood
+Absolute Neutrophil Count,539821,119681,Blood
+Lactate,525293,115939,Blood
+Absolute Eosinophil Count,517630,119611,Blood
+Absolute Monocyte Count,517587,119607,Blood
+Absolute Basophil Count,517586,119607,Blood
+Absolute Lymphocyte Count,517586,119607,Blood
+RBC,497735,154924,Urine
+WBC,497735,154925,Urine
+Bacteria,497734,154925,Urine
+Epithelial Cells,497732,154923,Urine
+Yeast,497732,154923,Urine
+Lactate Dehydrogenase (LD),480671,73549,Blood
+Immature Granulocytes,409799,111610,Blood
+Troponin T,370876,92337,Blood
+Thyroid Stimulating Hormone,328894,104624,Blood
+Urine Mucous,327992,123447,Urine
+Green Top Hold (plasma),314063,160508,Blood
+Free Calcium,294868,42802,Blood
+Creatine Kinase (CK),292628,78092,Blood
+Blue Top Hold,285158,145577,Blood
+Platelet Smear,276383,61689,Blood
+Triglycerides,263751,90001,Blood
+Anisocytosis,260472,61768,Blood
+"Cholesterol, Total",260451,87689,Blood
+Poikilocytosis,259997,61691,Blood
+Macrocytes,257176,61353,Blood
+"Potassium, Whole Blood",255987,67563,Blood
+Polychromasia,255890,61399,Blood
+"Cholesterol, HDL",254290,86273,Blood
+Microcytes,254133,60367,Blood
+Hypochromia,253474,60302,Blood
+Cholesterol Ratio (Total/HDL),253359,85928,Blood
+Bands,242318,52860,Blood
+Lipase,236864,96561,Blood
+Light Green Top Hold,236301,131478,Blood
+"Creatine Kinase, MB Isoenzyme",236114,60919,Blood
+"Cholesterol, LDL, Calculated",231378,81924,Blood
+% Hemoglobin A1c,231052,77898,Blood
+Metamyelocytes,225553,48304,Blood
+Myelocytes,224121,47967,Blood
+Atypical Lymphocytes,223293,47974,Blood
+Glucose,220300,49157,Blood
+eAG,199467,70705,Blood
 "Bilirubin, Direct",197845,88845,Blood
 "Bilirubin, Indirect",193120,87794,Blood
-"Bilirubin, Total",1302845,213403,Blood
-"Bilirubin, Total, Ascites",2109,1397,Ascites
-"Bilirubin, Total, Body Fluid",407,311,Other Body Fluid
-"Bilirubin, Total, CSF",4,4,Cerebrospinal Fluid
-"Bilirubin, Total, Pleural",167,141,Pleural
-Billed,2,2,Blood
-Bite Cells,7901,4409,Blood
-Blasts,24654,1582,Blood
-Blasts,86,21,Cerebrospinal Fluid
-Blasts,11,10,Pleural
-Blasts,3,3,Ascites
-Blasts,3,3,Other Body Fluid
-Blasts,1,1,Joint Fluid
-Bleeding Time,70,66,Blood
-Blood,707827,197748,Urine
-Blood,531,370,Urine
-Blood Parasite Smear,4557,2709,Blood
-"Blood, Occult",2983,1606,Stool
-Blue Top Hold,285158,145577,Blood
-Blue Top Hold Frozen,316,236,Blood
-Broad Casts,97,97,Urine
-C Diff Toxin Antigen Assay,313,264,Stool
+"Creatinine, Urine",191932,51488,Urine
+Oxygen Saturation,182731,34461,Blood
+Red Top Hold,178416,75214,Blood
+Intubated,163107,39728,Blood
+"Protein, Total",162472,48204,Blood
+Uhold,157307,84035,Urine
+Ferritin,140530,57433,Blood
+Uric Acid,135511,24550,Blood
+"Urine tube, held",134936,85056,Urine
+Urine Color,132289,67308,Urine
+Globulin,128589,37776,Blood
+Ovalocytes,125738,30488,Blood
+Iron,120584,54143,Blood
 C-Reactive Protein,120016,43622,Blood
-C. diff PCR,2029,1496,Stool
-C3,11657,5828,Blood
-C4,12224,6276,Blood
-CA 19-9,329,179,Blood
+"Hematocrit, Calculated",116473,38148,Blood
+Hemoglobin,116466,38147,Blood
+"Sodium, Whole Blood",116340,45228,Blood
+"Fibrinogen, Functional",115280,38117,Blood
+Hyaline Casts,108783,52129,Urine
+Transferrin,108027,50656,Blood
+"Iron Binding Capacity, Total",108005,50654,Blood
+Temperature,107693,21896,Blood
+Vitamin B12,106649,54927,Blood
+"Thyroxine (T4), Free",105748,38892,Blood
+Vancomycin,103199,24713,Blood
+Granulocyte Count,99590,6783,Blood
+tacroFK,98225,2034,Blood
+Ethanol,92298,55661,Blood
+"Total Protein, Urine",92166,22634,Urine
+Oxygen,91758,21447,Blood
+Acetaminophen,89824,56887,Blood
+"Chloride, Whole Blood",88222,42440,Blood
+Salicylate,88086,56236,Blood
+Tricyclic Antidepressant Screen,87085,55896,Blood
+Amylase,85894,33123,Blood
+"HCG, Urine, Qualitative",84708,50677,Urine
+EDTA Hold,84335,47625,Blood
+"Opiate Screen, Urine",83463,47867,Urine
+"Cocaine, Urine",83325,47934,Urine
+Nucleated Red Cells,83255,26817,Blood
+"Benzodiazepine Screen, Urine",82719,47779,Urine
+"Amphetamine Screen, Urine",82566,47804,Urine
+"Methadone, Urine",82397,47664,Urine
+"Barbiturate Screen, Urine",81922,47707,Urine
+25-OH Vitamin D,79944,31161,Blood
+Protein/Creatinine Ratio,79289,18148,Urine
+Teardrop Cells,78221,19628,Blood
+Benzodiazepine Screen,73600,47379,Blood
+Barbiturate Screen,73500,47351,Blood
+"Sodium, Urine",68894,30464,Urine
+NTproBNP,67459,29736,Blood
+Schistocytes,67369,20214,Blood
+Transitional Epithelial Cells,65440,38692,Urine
+Hepatitis B Surface Antigen,64240,41934,Blood
+Sedimentation Rate,63701,27299,Blood
+Hepatitis C Virus Antibody,63335,43021,Blood
+HIV Antibody,60620,38149,Blood
+Prostate Specific Antigen,60504,18655,Blood
+PEEP,59937,13829,Blood
+Ventilator,59468,22710,Blood
+"Albumin, Urine",58832,20229,Urine
+Ventilation Rate,56733,15680,Blood
+"Albumin/Creatinine, Urine",56688,19791,Urine
+Hepatitis B Surface Antibody,55042,38667,Blood
+Folate,54980,34594,Blood
+"Reticulocyte Count, Automated",53793,28082,Blood
+"Osmolality, Urine",51538,23935,Urine
+Tidal Volume,51004,13908,Blood
+Parathyroid Hormone,50993,16572,Blood
+Immunoglobulin G,46941,14580,Blood
+Haptoglobin,44333,21153,Blood
+Protein Electrophoresis,43831,19682,Blood
+Immunoglobulin A,43584,17824,Blood
+"Potassium, Urine",42077,20953,Urine
+"Osmolality, Measured",41890,13644,Blood
+Echinocytes,41722,20994,Blood
+"Cholesterol, LDL, Measured",41016,20243,Blood
+"Chloride, Urine",40616,20406,Urine
+Carcinoembyronic Antigen (CEA),40543,9663,Blood
+Hepatitis B Virus Core Antibody,39796,29288,Blood
+Immunoglobulin M,37471,12969,Blood
+Human Chorionic Gonadotropin,36612,19001,Blood
+"Urea Nitrogen, Urine",35005,19227,Urine
+Amorphous Crystals,34369,25501,Urine
+Oxycodone,33476,21898,Urine
+Alpha-Fetoprotein,30961,8070,Blood
+"CD3 Cells, Percent",28446,5490,Blood
+STX2,28422,19696,Blood
+"CD4 Cells, Percent",27904,5162,Blood
+"CD8 Cells, Percent",27894,5159,Blood
+STX3,27326,20035,Blood
+Anti-Nuclear Antibody,27321,21377,Blood
+UTX4,27252,18506,Urine
+Absolute CD4 Count,27149,4693,Blood
+Absolute CD3 Count,27148,4693,Blood
+Absolute CD8 Count,27148,4693,Blood
+Absolute Lymphocyte Count,27148,4693,Blood
+CD4/CD8 Ratio,27148,4693,Blood
+"Lymphocytes, Percent",27148,4693,Blood
+WBC Count,27148,4693,Blood
+UTX1,27081,18441,Urine
+UTX5,27053,18451,Urine
+UTX3,27051,18358,Urine
+UTX7,26943,18379,Urine
+STX1,26824,19812,Blood
+STX6,26599,19718,Blood
+UTX2,26598,18392,Urine
+Cortisol,26393,12654,Blood
+CK-MB Index,26344,10157,Blood
+UTX6,26106,17698,Urine
+"Reticulocyte Count, Absolute",25994,13451,Blood
+Problem Specimen,25584,20055,Blood
+ARCH-1,25313,18258,Blood
+Target Cells,24815,11250,Blood
+Blasts,24654,1582,Blood
+"Calculated Bicarbonate, Whole Blood",24093,20058,Blood
+Phenytoin,23648,4051,Blood
+D-Dimer,23647,18516,Blood
+Thyroxine (T4),22471,11732,Blood
+Assist/Control,22237,8244,Blood
+HPE1,22021,16241,Blood
+HPE7,21307,16381,Blood
+Cyclosporin,20231,686,Blood
+"Prot. Electrophoresis, Urine",19941,9563,Urine
+Triiodothyronine (T3),19919,9050,Blood
+Spherocytes,19462,7562,Blood
+RBC Morphology,19079,5119,Blood
+Lymphs,18794,9957,Cerebrospinal Fluid
+Monocytes,18794,9957,Cerebrospinal Fluid
+Polys,18794,9957,Cerebrospinal Fluid
+"Total Nucleated Cells, CSF",18785,9956,Cerebrospinal Fluid
+WBC Clumps,18650,11262,Urine
+"RBC, CSF",18647,9921,Cerebrospinal Fluid
+HPE2,18595,14196,Blood
+Hepatitis A Virus Antibody,18173,15675,Blood
+Influenza A by PCR,17890,12401,Other Body Fluid
+Influenza B by PCR,17890,12401,Other Body Fluid
+Testosterone,17852,7883,Blood
+Voided Specimen,16467,10599,Blood
+Gamma Glutamyltransferase,16219,9086,Blood
+"Tissue Transglutaminase Ab, IgA",16042,13256,Blood
+Calcium Oxalate Crystals,15756,11320,Urine
+HPE3,15304,11732,Blood
+Granular Casts,15062,11174,Urine
+Acanthocytes,14877,8818,Blood
+Basophilic Stippling,14505,6396,Blood
+Required O2,14442,7676,Blood
+Alveolar-arterial Gradient,14423,7670,Blood
+Elliptocytes,14369,6266,Blood
+H/O Smear,14275,7844,Blood
+"Total Protein, CSF",14006,9829,Cerebrospinal Fluid
+Free Kappa,13919,2730,Blood
+Free Lambda,13905,2729,Blood
+Free Kappa/Free Lambda Ratio,13831,2728,Blood
+"Glucose, CSF",13648,9713,Cerebrospinal Fluid
 CA-125,13646,2769,Blood
-CD 1a,3,3,Blood
-CD 1a,2,2,Other Body Fluid
-CD 1a,6,2,Bone Marrow
-CD10,1931,1472,Other Body Fluid
-CD10,1542,1111,Bone Marrow
-CD10,1322,1065,Blood
-CD103,64,50,Blood
-CD103,38,31,Bone Marrow
-CD103,11,10,Other Body Fluid
-CD117,239,212,Blood
-CD117,748,343,Bone Marrow
-CD117,63,44,Other Body Fluid
-CD11c,434,298,Bone Marrow
-CD11c,262,235,Blood
-CD11c,30,27,Other Body Fluid
-CD13,877,389,Bone Marrow
-CD13,276,236,Blood
-CD13,104,70,Other Body Fluid
-CD138,12,11,Blood
-CD138,44,37,Other Body Fluid
-CD138,16,15,Bone Marrow
-CD14,614,313,Bone Marrow
-CD14,228,208,Blood
-CD14,41,33,Other Body Fluid
-CD15,235,211,Blood
-CD15,718,335,Bone Marrow
-CD15,58,41,Other Body Fluid
-CD15/56,498,437,Blood
-CD16,29,29,Bone Marrow
-CD16,107,102,Blood
-CD16,15,13,Other Body Fluid
-CD16/56,87,84,Other Body Fluid
-CD16/56,145,121,Bone Marrow
-CD16/56 Absolute Count,1086,325,Blood
-CD16/56%,1086,325,Blood
-CD19,1658,1151,Bone Marrow
-CD19,1382,1100,Blood
+STX5,12797,10101,Blood
+STX4,12791,10105,Blood
+Digoxin,12258,3972,Blood
+C4,12224,6276,Blood
+Valproic Acid,12194,3184,Blood
+Lymphocytes,11940,3671,Ascites
+Monocytes,11940,3671,Ascites
+Polys,11940,3671,Ascites
+"Total Nucleated Cells, Ascites",11940,3671,Ascites
+"RBC, Ascites",11704,3606,Ascites
+C3,11657,5828,Blood
+Rapamycin,11506,496,Blood
+Marijuana,11403,4342,Urine
+Rheumatoid Factor,10916,9295,Blood
+Urine Volume,10834,6103,Urine
+pH,10708,6037,Urine
+Cancer Antigen 27.29,10399,1441,Blood
+Other Cells,10294,3071,Blood
+Promyelocytes,10247,3392,Blood
+Prolactin,10039,6301,Blood
+Macrophage,9949,3165,Ascites
+O2 Flow,9919,6651,Blood
+Immunofixation,9549,4856,Blood
+Follicle Stimulating Hormone,9087,6534,Blood
+24 hr Creatinine,8927,5155,Urine
+Chlamydia trachomatis,8429,5170,Other Body Fluid
+Neisseria gonorrhoeae,8426,5170,Other Body Fluid
+PAN1,8423,5167,Other Body Fluid
+Beta-2 Microglobulin,8280,2624,Blood
+Calculated TBG,8255,3742,Blood
+Uptake Ratio,8230,3739,Blood
+Calculated Thyroxine (T4) Index,8178,3723,Blood
+Mesothelial Cell,8130,2770,Ascites
+D-Dimer,8066,6494,Blood
+Bite Cells,7901,4409,Blood
+"Anti-Nuclear Antibody, Titer",7827,6021,Blood
+"Total Nucleated Cells, Pleural",7827,4436,Pleural
+Lymphocytes,7826,4436,Pleural
+Monos,7826,4436,Pleural
+Polys,7826,4436,Pleural
+Lithium,7654,2166,Blood
+"Lactate Dehydrogenase, Pleural",7588,4378,Pleural
+"Total Protein, Pleural",7587,4390,Pleural
+Double Stranded DNA,7509,3407,Blood
+Gray Top Hold (plasma),7477,6521,Blood
+"Total Protein, Ascites",7468,3024,Ascites
+Ammonia,7322,4232,Blood
+Renal Epithelial Cells,7310,6329,Urine
+Sex Hormone Binding Globulin,7292,4041,Blood
+"RBC, Pleural",7237,4162,Pleural
+Eosinophils,7099,5386,Urine
+Anti-Thyroglobulin Antibodies,7048,3211,Blood
+PAN1,7039,5204,Urine
+Chlamydia trachomatis,7025,5196,Urine
+Neisseria gonorrhoeae,7025,5195,Urine
+"Glucose, Pleural",7022,4141,Pleural
+Calculated Free Testosterone,6914,3844,Blood
+Fragmented Cells,6776,3905,Blood
+Anti-Neutrophil Cytoplasmic Antibody,6770,5695,Blood
+Anti-Smooth Muscle Antibody,6659,5987,Blood
+Cytomegalovirus Viral Load,6522,1567,Blood
+"Immunofixation, Urine",6402,3296,Urine
+Voided Specimen,6336,5293,Blood
+"Total Nucleated Cells, Joint",6329,4243,Joint Fluid
+Lymphocytes,6326,4241,Joint Fluid
+Monocytes,6326,4241,Joint Fluid
+Polys,6326,4241,Joint Fluid
+Large Platelets,6244,1665,Blood
+"Albumin, Ascites",6226,2819,Ascites
+HPE4,6132,5420,Blood
+Anti-Mitochondrial Antibody,6088,5519,Blood
+Carboxyhemoglobin,5947,5525,Blood
+Luteinizing Hormone,5832,4191,Blood
+Methotrexate,5724,310,Blood
+Macrophages,5682,3521,Pleural
+"Joint Crystals, Number",5594,3962,Joint Fluid
+"RBC, Joint Fluid",5556,3843,Joint Fluid
+Hemoglobin C,5447,5269,Blood
+Hemogloblin A,5447,5269,Blood
+Hemogloblin S,5447,5269,Blood
+pH,5437,3452,Other Body Fluid
+Immunophenotyping,5417,3489,Other Body Fluid
+Hepatitis A Virus IgM Antibody,5246,4918,Blood
+Methemoglobin,5235,4723,Blood
+Thyroid Peroxidase Antibodies,5195,4591,Blood
+Thyroglobulin,5021,1507,Blood
+"Glucose, Ascites",4922,2415,Ascites
+Lymphocytes,4920,3369,Other Body Fluid
+Monos,4920,3369,Other Body Fluid
+Polys,4920,3369,Other Body Fluid
+wbcp,4920,3844,Blood
+Pappenheimer Bodies,4885,3075,Blood
+Howell-Jolly Bodies,4856,1641,Blood
+Immunophenotyping,4775,2356,Bone Marrow
+Urine Specimen Type,4750,3306,Urine
+Inpatient Hematology/Oncology Smear,4746,3425,Blood
+"Albumin, Pleural",4726,3104,Pleural
+"Calcium, Urine",4709,3587,Urine
+Gentamicin,4673,1588,Blood
+Lupus Anticoagulant,4631,3842,Blood
+"Reticulocyte Count, Manual",4584,2721,Blood
+Blood Parasite Smear,4557,2709,Blood
+Fibrin Degradation Products,4525,2136,Blood
+"Cholesterol, Pleural",4517,2840,Pleural
+Hepatitis C Viral Load,4387,2576,Blood
+Mesothelial Cells,4385,2909,Pleural
+Phenobarbital,4057,813,Blood
+Macrophage,3989,2478,Cerebrospinal Fluid
+24 hr Protein,3908,2181,Urine
+"Hepatitis B Core Antibody, IgM",3774,3593,Blood
+"Creatinine, Whole Blood",3741,3069,Blood
+HIV 1 Viral Load,3730,1207,Blood
+"Lactate Dehydrogenase, Ascites",3688,2112,Ascites
+Voided Specimen,3627,2368,Urine
+Heparin,3403,554,Blood
+Hemoglobin F,3402,3131,Blood
+Macrophage,3385,2460,Other Body Fluid
+"Amylase, Ascites",3366,1964,Ascites
+Estradiol,3287,2339,Blood
+Quantitative G6PD,3271,2972,Blood
+Hepatitis B Viral Load,3260,1512,Blood
+Carbamazepine,3254,936,Blood
+CD45,3237,2091,Other Body Fluid
+Hemoglobin A2,3237,3112,Blood
+Estimated GFR (MDRD equation),3235,3063,Blood
+Voided Specimen,3223,2443,Blood
+XUCU,3158,2095,Urine
+Wright Giemsa,3153,1371,Bone Marrow
+"Phosphate, Urine",3146,2634,Urine
 CD19,3133,2063,Other Body Fluid
-CD19 %,1086,366,Blood
-CD19 Absolute Count,1086,366,Blood
-CD2,887,713,Bone Marrow
-CD2,1082,894,Other Body Fluid
-CD2,961,841,Blood
-CD20,1503,1105,Bone Marrow
-CD20,1325,1073,Blood
-CD20,1927,1475,Other Body Fluid
-CD20 %,1086,366,Blood
-CD20 Absolute Count,1086,366,Blood
-CD22,70,56,Blood
-CD22,45,37,Bone Marrow
-CD22,17,16,Other Body Fluid
-CD23,1114,859,Bone Marrow
-CD23,1484,1177,Other Body Fluid
-CD23,1073,875,Blood
-CD25,63,49,Bone Marrow
-CD25,82,66,Blood
-CD25,23,19,Other Body Fluid
+Other,3085,2142,Pleural
+Macrophage,3017,2338,Joint Fluid
+"Blood, Occult",2983,1606,Stool
+UTX9,2951,1324,Urine
+Immunophenotyping,2776,2075,Blood
+Treponema pallidum (Syphilis) Ab,2761,2479,Blood
+Treponema pallidum (syphilis) value,2741,2467,Blood
+Kappa,2735,1928,Other Body Fluid
+Lambda,2734,1928,Other Body Fluid
+Other,2678,1587,Ascites
+Anticardiolipin Antibody IgG,2640,2210,Blood
+Anticardiolipin Antibody IgM,2640,2210,Blood
+"Bicarbonate, Urine",2565,2214,Urine
+"Heparin, LMW",2558,1086,Blood
+Anat Path Hold,2516,2142,Other Body Fluid
+Pencil Cells,2460,1666,Blood
+Factor VIII,2433,1358,Blood
+Uric Acid Crystals,2433,2139,Urine
+Homocysteine,2417,2070,Blood
+Eosinophils,2389,1763,Pleural
+Envelope Cells,2337,1588,Blood
+Cryoglobulin,2312,1749,Blood
+"Lactate Dehydrogenase, CSF",2294,1445,Cerebrospinal Fluid
+UCU2,2281,1553,Urine
+"Testosterone, Free",2247,1613,Blood
+"Total Nucleated Cells, Other",2240,1536,Other Body Fluid
+Antithrombin,2191,1389,Blood
+CD45,2146,1225,Bone Marrow
+24 hr Calcium,2110,1505,Urine
+"Bilirubin, Total, Ascites",2109,1397,Ascites
+Trichomonas vaginalis,2078,1507,Other Body Fluid
+PAN2,2072,1502,Other Body Fluid
+C. diff PCR,2029,1496,Stool
+"Creatinine, Ascites",2026,1471,Ascites
+Thrombin,2023,1580,Blood
+CD5,1982,1513,Other Body Fluid
+Tobramycin,1981,654,Blood
+Other,1957,1017,Cerebrospinal Fluid
 CD3,1948,1393,Other Body Fluid
+HPE6,1943,1838,Blood
+DHEA-Sulfate,1942,1574,Blood
+CD10,1931,1472,Other Body Fluid
+CD20,1927,1475,Other Body Fluid
+"RBC, Other Fluid",1918,1249,Other Body Fluid
+"Amylase, Pleural",1886,1471,Pleural
+Eosinophils,1863,1299,Cerebrospinal Fluid
+Plasma Cells,1834,1209,Blood
+Eosinophils,1782,1098,Ascites
+CDT027,1709,1289,Stool
+Other Cell,1708,1380,Other Body Fluid
+Acetone,1659,1342,Blood
+CD19,1658,1151,Bone Marrow
+"Protein C, Functional",1653,1542,Blood
+"Triglycerides, Pleural",1652,1168,Pleural
+"Uric Acid, Urine",1630,1459,Urine
+Eosinophils,1615,1265,Other Body Fluid
+"Miscellaneous, Pleural",1611,1139,Pleural
 CD3,1584,1118,Bone Marrow
+HLA-DR,1551,1111,Bone Marrow
+CD10,1542,1111,Bone Marrow
+"Protein S, Functional",1538,1437,Blood
+HLA-DR,1522,1202,Other Body Fluid
+RFXLDLM,1508,1081,Blood
+CD20,1503,1105,Bone Marrow
+"Magnesium, Urine",1501,1307,Urine
+FMC-7,1490,1180,Other Body Fluid
+CD23,1484,1177,Other Body Fluid
+Kappa,1476,1119,Bone Marrow
+Lambda,1476,1119,Bone Marrow
+CD5,1473,1098,Bone Marrow
+Serum Viscosity,1470,370,Blood
+Norovirus Genogroup I,1451,1213,Stool
+Norovirus Genogroup II,1451,1213,Stool
+CD45,1430,1119,Blood
+Anti-DGP (IgA/IgG),1415,1214,Blood
+CD19,1382,1100,Blood
+"Amylase, Body Fluid",1351,1016,Other Body Fluid
+Iron Stain,1335,870,Bone Marrow
+CD20,1325,1073,Blood
+CD10,1322,1065,Blood
+"Joint Crystals, Birefringence",1317,1043,Joint Fluid
+"Joint Crystals, Location",1317,1043,Joint Fluid
+"Joint Crystals, Shape",1317,1043,Joint Fluid
+CD5,1314,1068,Blood
+Kappa,1313,1070,Blood
+Lambda,1313,1070,Blood
+FetalFN,1306,1016,Other Body Fluid
+"Creatinine, Pleural",1300,1078,Pleural
+HLA-DR,1293,1063,Blood
+"G6PD, Qualitative",1276,1085,Blood
+"Strep A, Rapid Antigen",1264,1063,Other Body Fluid
 CD3 %,1254,452,Blood
 CD3 Absolute Count,1254,452,Blood
-"CD3 Cells, Percent",28446,5490,Blood
-CD33,669,318,Bone Marrow
-CD33,228,205,Blood
-CD33,50,38,Other Body Fluid
-CD34,973,400,Bone Marrow
-CD34,1044,432,Other Body Fluid
-CD34,299,248,Blood
-CD38,92,86,Blood
-CD38,50,41,Other Body Fluid
-CD38,48,39,Bone Marrow
-CD4,234,201,Other Body Fluid
-CD4,528,398,Bone Marrow
-"CD4 Cells, Percent",27904,5162,Blood
-CD4/CD8 Ratio,27148,4693,Blood
-CD4/CD8 Ratio,50,48,Other Body Fluid
-CD41,354,263,Bone Marrow
-CD41,15,14,Other Body Fluid
-CD41,190,180,Blood
-CD45,3237,2091,Other Body Fluid
-CD45,2146,1225,Bone Marrow
-CD45,1430,1119,Blood
-CD5,1982,1513,Other Body Fluid
-CD5,1473,1098,Bone Marrow
-CD5,1314,1068,Blood
-CD5 %,193,154,Blood
-CD5 Absolute Count,193,154,Blood
-CD55,211,174,Blood
-CD55,6,6,Bone Marrow
-CD56,444,316,Bone Marrow
-CD56,351,304,Blood
-CD56,68,57,Other Body Fluid
-CD56 %,9,6,Blood
-CD56 Absolute Count,9,6,Blood
-CD57,159,147,Blood
-CD57,37,34,Bone Marrow
-CD57,16,14,Other Body Fluid
-CD59,211,174,Blood
-CD59,5,5,Bone Marrow
-CD64,206,193,Blood
-CD64,443,282,Bone Marrow
-CD64,33,27,Other Body Fluid
-CD7,970,846,Blood
+HPE8,1251,1035,Blood
+Study Tubes,1240,401,Blood
+Triple Phosphate Crystals,1215,887,Urine
+RFXUCU,1175,841,Urine
+Von Willebrand Factor Antigen,1145,769,Blood
+Mesothelial cells,1122,835,Other Body Fluid
+Von Willebrand Factor Activity,1121,744,Blood
+CD23,1114,859,Bone Marrow
+FMC-7,1114,858,Bone Marrow
+"proBNP, Pleural",1094,668,Pleural
 CD7,1088,899,Other Body Fluid
+FMC-7,1088,884,Blood
+CD16/56 Absolute Count,1086,325,Blood
+CD16/56%,1086,325,Blood
+CD19 %,1086,366,Blood
+CD19 Absolute Count,1086,366,Blood
+CD20 %,1086,366,Blood
+CD20 Absolute Count,1086,366,Blood
+CD2,1082,894,Other Body Fluid
+PAN3,1080,517,Blood
+CD23,1073,875,Blood
+Eosinophils,1066,915,Joint Fluid
+CD34,1044,432,Other Body Fluid
+Cellular Cast,999,957,Urine
+CD34,973,400,Bone Marrow
+CD7,970,846,Blood
+"Hematocrit, Pleural",964,732,Pleural
+CD2,961,841,Blood
+Atypical Lymphocytes,959,693,Cerebrospinal Fluid
+Lyme C6 Ab,949,875,Blood
+Lyme G and M Value,944,872,Blood
+Inhibitor Screen,923,763,Blood
 CD7,915,719,Bone Marrow
-CD71,195,185,Blood
-CD71,333,261,Bone Marrow
-CD71,15,14,Other Body Fluid
-CD8,228,197,Other Body Fluid
-CD8,485,386,Bone Marrow
-"CD8 Cells, Percent",27894,5159,Blood
-CDT027,313,276,Stool
-CDT027,1709,1289,Stool
-CK-MB Index,26344,10157,Blood
-CMV IgG Ab,733,663,Blood
+Other,912,792,Joint Fluid
+MacroOvalocytes,904,686,Blood
+HPE5,893,838,Blood
+CD2,887,713,Bone Marrow
+PAN2,886,729,Urine
+Trichomonas vaginalis,885,729,Urine
+CD13,877,389,Bone Marrow
+EE6,860,829,Blood
+UCU1,856,618,Urine
+EE1,851,808,Blood
+Sperm,823,679,Urine
+RUBIgGV,820,800,Blood
+Rubella IgG Ab,816,797,Blood
+"PEP, CSF",815,588,Cerebrospinal Fluid
+VZV IgG Ab Value,796,773,Blood
+VZV IgG Ab,795,773,Blood
+"Hematocrit, Joint Fluid",792,678,Joint Fluid
+MRSA PCR,790,752,Other Body Fluid
+Staph aureus PCR,790,752,Other Body Fluid
+Sickle Cells,787,160,Blood
+"Phenytoin, Free",775,346,Blood
+Sickle Cell Preparation,754,724,Blood
+CD117,748,343,Bone Marrow
+EE2,748,711,Blood
+NonSquamous Epithelial Cell,748,726,Urine
+"Miscellaneous, Body Fluid",746,638,Other Body Fluid
+"Phenytoin, Percent Free",741,338,Blood
 CMV IgG Ab Value,736,666,Blood
+CMV IgG Ab,733,663,Blood
+"Glucose, Body Fluid",733,690,Other Body Fluid
+"Total Protein, Body Fluid",719,678,Other Body Fluid
+CD15,718,335,Bone Marrow
+Hemosiderin,696,601,Urine
+Voided Specimen,695,685,Urine
+CD33,669,318,Bone Marrow
+Creatinine Clearance,651,396,Urine
+"Creatinine, Serum",651,396,Urine
+Total Collection Time,651,396,Urine
+Urine Creatinine,651,396,Urine
+"Urine Volume, Total",651,396,Urine
+Bands,650,497,Cerebrospinal Fluid
+Hypersegmented Neutrophils,639,506,Blood
+"LD, Body Fluid",639,602,Other Body Fluid
+Plasma,637,446,Ascites
+"Albumin, Body Fluid",636,600,Other Body Fluid
 CMV IgM Ab,629,583,Blood
 CMV Interpretation,629,583,Blood
-Calcium Carbonate Crystals,15,15,Urine
-Calcium Oxalate Crystals,15756,11320,Urine
-Calcium Phosphate Crystals,56,55,Urine
-"Calcium, Body Fluid",11,9,Other Body Fluid
-"Calcium, Total",2247740,174852,Blood
-"Calcium, Urine",4709,3587,Urine
-"Calculated Bicarbonate, Whole Blood",24093,20058,Blood
-Calculated Free Testosterone,6914,3844,Blood
-Calculated TBG,8255,3742,Blood
-Calculated Thyroxine (T4) Index,8178,3723,Blood
-Calculated Total CO2,561660,60979,Blood
-Call,57,47,Blood
-Camp,1,1,Urine
-Cancer Antigen 27.29,10399,1441,Blood
-Carbamazepine,3254,936,Blood
-Carboxyhemoglobin,5947,5525,Blood
-Carcinoembyronic Antigen (CEA),40543,9663,Blood
-Cben,5,5,Urine
-Cellular Cast,999,957,Urine
-Centromere,521,454,Blood
-Chlamydia trachomatis,8429,5170,Other Body Fluid
-Chlamydia trachomatis,7025,5196,Urine
-Chloride,3202975,250406,Blood
-Chloride,352,301,Blood
-"Chloride, Ascites",39,29,Ascites
-"Chloride, Body Fluid",34,28,Other Body Fluid
-"Chloride, CSF",1,1,Cerebrospinal Fluid
-"Chloride, Pleural",5,5,Pleural
-"Chloride, Stool",94,84,Stool
-"Chloride, Urine",40616,20406,Urine
-"Chloride, Whole Blood",88222,42440,Blood
-Cholesterol Crystals,17,17,Urine
-Cholesterol Ratio (Total/HDL),253359,85928,Blood
-"Cholesterol, Ascites",49,46,Ascites
-"Cholesterol, Body Fluid",15,15,Other Body Fluid
-"Cholesterol, HDL",254290,86273,Blood
-"Cholesterol, LDL, Calculated",231378,81924,Blood
-"Cholesterol, LDL, Measured",41016,20243,Blood
-"Cholesterol, Pleural",4517,2840,Pleural
-"Cholesterol, Total",260451,87689,Blood
-"Cocaine, Urine",83325,47934,Urine
-Collagen,313,288,Blood
-Cortisol,26393,12654,Blood
-Creatine Kinase (CK),292628,78092,Blood
-"Creatine Kinase, MB Isoenzyme",236114,60919,Blood
-Creatinine,3378967,252860,Blood
-Creatinine,352,301,Blood
-Creatinine Clearance,651,396,Urine
-"Creatinine, Ascites",2026,1471,Ascites
-"Creatinine, Body Fluid",417,319,Other Body Fluid
-"Creatinine, Joint Fluid",2,2,Joint Fluid
-"Creatinine, Pleural",1300,1078,Pleural
-"Creatinine, Serum",651,396,Urine
-"Creatinine, Urine",191932,51488,Urine
-"Creatinine, Whole Blood",3741,3069,Blood
-Cryoglobulin,2312,1749,Blood
-Cyclosporin,20231,686,Blood
-Cysteine Crystals,15,14,Urine
-Cytomegalovirus Viral Load,6522,1567,Blood
-D-Dimer,23647,18516,Blood
-D-Dimer,8066,6494,Blood
-D-Dimer,39,39,Blood
-DHEA-Sulfate,1942,1574,Blood
-Digoxin,12258,3972,Blood
-DirList,2,2,Urine
-DirLst,2,2,Blood
-Double Stranded DNA,7509,3407,Blood
-EDTA Hold,84335,47625,Blood
-EE1,851,808,Blood
-EE2,748,711,Blood
-EE3,238,237,Blood
-EE5,99,97,Blood
-EE6,860,829,Blood
-EE7,563,537,Blood
-Echinocytes,41722,20994,Blood
-Elliptocytes,14369,6266,Blood
-Envelope Cells,2337,1588,Blood
-Eosinophil Count,531,374,Blood
-Eosinophils,1294505,247997,Blood
-Eosinophils,1782,1098,Ascites
-Eosinophils,2389,1763,Pleural
-Eosinophils,1066,915,Joint Fluid
-Eosinophils,1863,1299,Cerebrospinal Fluid
-Eosinophils,1615,1265,Other Body Fluid
-Eosinophils,7099,5386,Urine
-Epinepherine,155,134,Blood
-Epithelial Casts,31,31,Urine
-Epithelial Cells,497732,154923,Urine
+WBC Casts,626,611,Urine
+CD14,614,313,Bone Marrow
+Immunophenotyping,596,364,Cerebrospinal Fluid
 Epstein-Barr Virus  EBNA IgG Ab,568,538,Blood
-Epstein-Barr Virus EBNA IgG Ab,566,539,Blood
-Epstein-Barr Virus IgG Ab Value,565,539,Blood
-Epstein-Barr Virus IgM Ab Value,565,539,Blood
 Epstein-Barr Virus Interpretation,568,538,Blood
 Epstein-Barr Virus VCA IgG Ab,568,538,Blood
 Epstein-Barr Virus VCA IgM Ab,568,538,Blood
-Estimated GFR (MDRD equation),1418862,250985,Blood
-Estimated GFR (MDRD equation),3235,3063,Blood
-Estradiol,3287,2339,Blood
-Ethanol,92298,55661,Blood
-"Ethanol, Urine",99,53,Urine
-Ethylene Glycol,160,118,Blood
-FMC-7,1114,858,Bone Marrow
-FMC-7,1490,1180,Other Body Fluid
-FMC-7,1088,884,Blood
-Factor II,244,155,Blood
-Factor IX,319,196,Blood
-Factor IX Inhibitor,1,1,Blood
-Factor V,283,226,Blood
-Factor VII,458,304,Blood
-Factor VIII,2433,1358,Blood
-Factor VIII Inhibitor,191,49,Blood
-Factor X,231,193,Blood
-Factor XI,306,178,Blood
-Factor XII,67,63,Blood
-Factor XIII,92,74,Blood
-Fatty Casts,2,2,Urine
-Fax,46,45,Blood
-Fentanyl,284,269,Urine
-Ferritin,140530,57433,Blood
-Fetal Hemoglobin,381,330,Blood
-FetalFN,1306,1016,Other Body Fluid
-Fibrin Degradation Products,4525,2136,Blood
-"Fibrinogen, Functional",115280,38117,Blood
-Fl Scan,1,1,Other Body Fluid
-Folate,54980,34594,Blood
-Follicle Stimulating Hormone,9087,6534,Blood
-Fragmented Cells,6776,3905,Blood
-Free Calcium,294868,42802,Blood
-Free Calcium,351,300,Blood
-Free Fat,10,10,Urine
-Free Kappa,13919,2730,Blood
-Free Kappa/Free Lambda Ratio,13831,2728,Blood
-Free Lambda,13905,2729,Blood
-"G6PD, Qualitative",1276,1085,Blood
-GATE,2,2,Urine
-Gamma Glutamyltransferase,16219,9086,Blood
-Gentamicin,4673,1588,Blood
-Globulin,128589,37776,Blood
-Glucose,220300,49157,Blood
-Glucose,707826,197748,Urine
-Glucose,2829673,246407,Blood
-Glucose,374,318,Blood
+Epstein-Barr Virus EBNA IgG Ab,566,539,Blood
+Epstein-Barr Virus IgG Ab Value,565,539,Blood
+Epstein-Barr Virus IgM Ab Value,565,539,Blood
+EE7,563,537,Blood
+Amikacin,560,110,Blood
+Rubeola IgG Ab Value,550,541,Blood
+Absolute A1c,548,516,Blood
+Absolute Hemoglobin,548,516,Blood
+Rubeola IgG Ab,548,539,Blood
+Bilirubin,531,370,Urine
+Blood,531,370,Urine
+Eosinophil Count,531,374,Blood
 Glucose,531,370,Urine
-"Glucose, Ascites",4922,2415,Ascites
-"Glucose, Body Fluid",733,690,Other Body Fluid
-"Glucose, CSF",13648,9713,Cerebrospinal Fluid
-"Glucose, Joint Fluid",171,162,Joint Fluid
-"Glucose, Pleural",7022,4141,Pleural
-"Glucose, Urine",132,111,Urine
-Glyco A,191,183,Blood
+Ketone,531,370,Urine
+Leukocytes,531,370,Urine
+Nitrite,531,370,Urine
+Protein,531,370,Urine
+Specific Gravity,531,370,Urine
+Urobilinogen,531,370,Urine
+pH,531,370,Urine
+CD4,528,398,Bone Marrow
+Centromere,521,454,Blood
+"Miscellaneous, CSF",513,318,Cerebrospinal Fluid
+Plasma Cells,513,420,Pleural
+CD15/56,498,437,Blood
+Porphobilinogen Screen,486,413,Urine
+CD8,485,386,Bone Marrow
+"Hematocrit, Other Fluid",465,412,Other Body Fluid
+K (GREEN),460,440,Blood
+Mumps IgG Ab Value,460,450,Blood
+Factor VII,458,304,Blood
+Mumps IgG Ab,458,448,Blood
+Atypical Lymphocytes,452,355,Ascites
+LUC,452,414,Blood
+Basophils,447,388,Pleural
+CD56,444,316,Bone Marrow
+CD64,443,282,Bone Marrow
+"Myoglobin, Urine",437,396,Urine
+"Triglycerides, Ascites",436,301,Ascites
+CD11c,434,298,Bone Marrow
+Toxoplasma IgG Ab,425,386,Blood
+Toxoplasma Interpretation,425,386,Blood
+"Creatinine, Body Fluid",417,319,Other Body Fluid
+dRVVT - Screen,416,374,Blood
+"Urine Casts, Other",415,412,Urine
+NRBC,413,319,Cerebrospinal Fluid
+Toxoplasma IgG Ab Value,413,385,Blood
+"Bilirubin, Total, Body Fluid",407,311,Other Body Fluid
+Atypical Lymphocytes,404,356,Pleural
+"Urine Crystals, Other",400,397,Urine
+Fetal Hemoglobin,381,330,Blood
+Glucose,374,318,Blood
+Hematocrit,374,318,Blood
+"Hemoglobin, Calculated",374,318,Blood
+Potassium,374,318,Blood
+Sodium,374,318,Blood
+Platelet Clumps,370,312,Blood
+CD41,354,263,Bone Marrow
+Chloride,352,301,Blood
+Creatinine,352,301,Blood
+Urea Nitrogen,352,301,Blood
+CD56,351,304,Blood
+Free Calcium,351,300,Blood
+Anion Gap,350,301,Blood
+Total CO2,350,301,Blood
+Basophils,347,288,Cerebrospinal Fluid
+"Hematocrit, Ascites",347,257,Ascites
+Beta Hydroxybutyrate,339,244,Blood
+"Reducing Substances, Urine",336,270,Urine
+Basophils,333,296,Ascites
+CD71,333,261,Bone Marrow
+Mesothelial Cells,332,311,Joint Fluid
+Arachadonic Acid,330,302,Blood
+CA 19-9,329,179,Blood
+ADP,320,294,Blood
+Factor IX,319,196,Blood
 Glyco A,319,258,Bone Marrow
-Glyco A,14,13,Other Body Fluid
-Granular Casts,15062,11174,Urine
-Granulocyte Count,99590,6783,Blood
-Gray Top Hold (plasma),7477,6521,Blood
-Green Top Hold (plasma),314063,160508,Blood
-H,1457702,124299,Blood
+Voided Specimen,317,300,Other Body Fluid
+Blue Top Hold Frozen,316,236,Blood
+C Diff Toxin Antigen Assay,313,264,Stool
+CDT027,313,276,Stool
+Collagen,313,288,Blood
+SCT - Screen,310,292,Blood
+Factor XI,306,178,Blood
+CD34,299,248,Blood
 H. pylori IgG Ab,298,296,Blood
+Voided Specimen,294,266,Stool
+Waxy Casts,287,283,Urine
+Fentanyl,284,269,Urine
+UTX10,284,269,Urine
+Factor V,283,226,Blood
+Bands,281,256,Ascites
+Study Urine,277,95,Urine
+CD13,276,236,Blood
+"Influenza A, Rapid Antigen",273,262,Other Body Fluid
+"Influenza B, Rapid Antigen",273,262,Other Body Fluid
 H. pylori IgG Ab Value,263,261,Blood
-H/O Smear,14275,7844,Blood
-"HCG, Urine, Qualitative",84708,50677,Urine
+CD11c,262,235,Blood
+"Sodium, Stool",245,206,Stool
+Factor II,244,155,Blood
+HIV 1 Ab Confirmation,243,197,Blood
+HIV 2 Ab Confirmation,243,197,Blood
+"Potassium, Stool",243,205,Stool
+CD117,239,212,Blood
+EE3,238,237,Blood
+"Osmolality, Stool",236,203,Stool
+CD15,235,211,Blood
+"Strep A, Rapid Antigen",235,197,Other Body Fluid
+CD4,234,201,Other Body Fluid
 "HCG, Urine, Qualitative",232,164,Urine
+Factor X,231,193,Blood
+CD14,228,208,Blood
+CD33,228,205,Blood
+CD8,228,197,Other Body Fluid
+Heinz Body Prep,222,192,Blood
+High-Sensitivity CRP,221,205,Blood
+Bands,216,203,Joint Fluid
+CD55,211,174,Blood
+CD59,211,174,Blood
+White Blood Cells,211,191,Blood
+CD64,206,193,Blood
 HIT-Ab Interpreted Result,199,177,Blood
 HIT-Ab Numerical Result,199,177,Blood
-HIV 1 Ab Confirmation,243,197,Blood
-HIV 1 Viral Load,3730,1207,Blood
-HIV 1 Viral Load,15,14,Cerebrospinal Fluid
-HIV 2 Ab Confirmation,243,197,Blood
-HIV Antibody,60620,38149,Blood
-HLA-DR,1293,1063,Blood
-HLA-DR,1551,1111,Bone Marrow
-HLA-DR,1522,1202,Other Body Fluid
-HPE1,22021,16241,Blood
-HPE2,18595,14196,Blood
-HPE3,15304,11732,Blood
-HPE4,6132,5420,Blood
-HPE5,893,838,Blood
-HPE6,1943,1838,Blood
-HPE7,21307,16381,Blood
-HPE8,1251,1035,Blood
-HPE9,11,11,Blood
-Haptoglobin,44333,21153,Blood
-Heinz Body Prep,222,192,Blood
-Hematocrit,3453735,270179,Blood
-Hematocrit,374,318,Blood
-Hematocrit,15,14,Urine
-"Hematocrit, Ascites",347,257,Ascites
-"Hematocrit, CSF",146,107,Cerebrospinal Fluid
-"Hematocrit, Calculated",116473,38148,Blood
-"Hematocrit, Joint Fluid",792,678,Joint Fluid
-"Hematocrit, Other Fluid",465,412,Other Body Fluid
-"Hematocrit, Pleural",964,732,Pleural
-Hemoglobin,3301290,269415,Blood
-Hemoglobin,116466,38147,Blood
-Hemoglobin A2,3237,3112,Blood
-Hemoglobin C,5447,5269,Blood
-Hemoglobin F,3402,3131,Blood
-Hemoglobin Other,42,39,Blood
-"Hemoglobin, Calculated",374,318,Blood
-Hemogloblin A,5447,5269,Blood
-Hemogloblin S,5447,5269,Blood
-Hemosiderin,696,601,Urine
-Heparin,3403,554,Blood
-"Heparin, LMW",2558,1086,Blood
-Hepatitis A Virus Antibody,18173,15675,Blood
-Hepatitis A Virus IgM Antibody,5246,4918,Blood
-"Hepatitis B Core Antibody, IgM",3774,3593,Blood
-Hepatitis B Surface Antibody,55042,38667,Blood
-Hepatitis B Surface Antigen,64240,41934,Blood
-Hepatitis B Viral Load,3260,1512,Blood
-Hepatitis B Virus Core Antibody,39796,29288,Blood
-Hepatitis C Viral Load,4387,2576,Blood
-Hepatitis C Virus Antibody,63335,43021,Blood
-High-Sensitivity CRP,221,205,Blood
-Homocysteine,2417,2070,Blood
-Howell-Jolly Bodies,4856,1641,Blood
-Human Chorionic Gonadotropin,36612,19001,Blood
-Hyaline Casts,108783,52129,Urine
-Hyperseg,1,1,Ascites
-Hypersegmented Neutrophils,639,506,Blood
-Hypersegmented Neutrophils,2,2,Other Body Fluid
-Hyphenated Yeast,5,5,Urine
-Hypochromia,253474,60302,Blood
-I,1457680,124302,Blood
-INR(PT),1447066,165412,Blood
-INR(PT),34,32,Blood
-Immature Granulocytes,409799,111610,Blood
-Immunofixation,9549,4856,Blood
-"Immunofixation, Urine",6402,3296,Urine
-Immunoglobulin A,43584,17824,Blood
-Immunoglobulin G,46941,14580,Blood
-Immunoglobulin M,37471,12969,Blood
-Immunophenotyping,5417,3489,Other Body Fluid
-Immunophenotyping,2776,2075,Blood
-Immunophenotyping,4775,2356,Bone Marrow
-Immunophenotyping,596,364,Cerebrospinal Fluid
-Influenza A by PCR,17890,12401,Other Body Fluid
-Influenza A by PCR,190,185,Other Body Fluid
-"Influenza A, Rapid Antigen",273,262,Other Body Fluid
-"Influenza A, Rapid Antigen",99,92,Other Body Fluid
-Influenza B by PCR,17890,12401,Other Body Fluid
-Influenza B by PCR,190,185,Other Body Fluid
-"Influenza B, Rapid Antigen",273,262,Other Body Fluid
-"Influenza B, Rapid Antigen",99,92,Other Body Fluid
-Inhibitor Screen,923,763,Blood
-Inpatient Hematology/Oncology Smear,4746,3425,Blood
-Intubated,163107,39728,Blood
-Iron,120584,54143,Blood
-"Iron Binding Capacity, Total",108005,50654,Blood
-Iron Stain,1335,870,Bone Marrow
-"Joint Crystals, Birefringence",1317,1043,Joint Fluid
-"Joint Crystals, Location",1317,1043,Joint Fluid
-"Joint Crystals, Number",5594,3962,Joint Fluid
-"Joint Crystals, Shape",1317,1043,Joint Fluid
-K (GREEN),460,440,Blood
-Kappa,2735,1928,Other Body Fluid
-Kappa,1313,1070,Blood
-Kappa,1476,1119,Bone Marrow
-Ketone,707825,197748,Urine
-Ketone,531,370,Urine
-L,1457685,124290,Blood
-"LD, Body Fluid",639,602,Other Body Fluid
-"LD, Joint Fluid",41,40,Joint Fluid
-LUC,452,414,Blood
-Lactate,525293,115939,Blood
-Lactate Dehydrogenase (LD),480671,73549,Blood
-"Lactate Dehydrogenase, Ascites",3688,2112,Ascites
-"Lactate Dehydrogenase, CSF",2294,1445,Cerebrospinal Fluid
-"Lactate Dehydrogenase, Pleural",7588,4378,Pleural
-Lambda,2734,1928,Other Body Fluid
-Lambda,1313,1070,Blood
-Lambda,1476,1119,Bone Marrow
-Large Platelets,6244,1665,Blood
-Length of Urine Collection,662041,173076,Urine
-Leucine Crystals,5,5,Urine
-Leukocyte Alkaline Phosphatase,51,45,Blood
-Leukocytes,707831,197748,Urine
-Leukocytes,531,370,Urine
-Light Green Top Hold,236301,131478,Blood
-Lining Cell,137,114,Other Body Fluid
-Lining Cell,115,109,Joint Fluid
-Lining Cell,37,30,Cerebrospinal Fluid
-Lipase,236864,96561,Blood
-"Lipase, Ascites",94,72,Ascites
-"Lipase, Body Fluid",54,39,Other Body Fluid
-"Lipase, Pleural",9,9,Pleural
-Lithium,7654,2166,Blood
-Lupus Anticoagulant,4631,3842,Blood
-Luteinizing Hormone,5832,4191,Blood
-Lyme C6 Ab,949,875,Blood
-Lyme G and M Value,944,872,Blood
-Lymphocytes,1294510,247997,Blood
-Lymphocytes,7826,4436,Pleural
-Lymphocytes,6326,4241,Joint Fluid
-Lymphocytes,4920,3369,Other Body Fluid
-Lymphocytes,11940,3671,Ascites
-"Lymphocytes, Percent",27148,4693,Blood
-Lymphs,18794,9957,Cerebrospinal Fluid
-MCH,3278656,269311,Blood
-MCHC,3278783,269311,Blood
-MCV,3278657,269311,Blood
-MRSA PCR,790,752,Other Body Fluid
-Macro Prolactin,31,27,Blood
-MacroOvalocytes,904,686,Blood
-Macrocytes,257176,61353,Blood
-Macrophage,3385,2460,Other Body Fluid
-Macrophage,9949,3165,Ascites
-Macrophage,3989,2478,Cerebrospinal Fluid
-Macrophage,3017,2338,Joint Fluid
-Macrophages,5682,3521,Pleural
-Magnesium,2206137,165758,Blood
-"Magnesium, Body Fluid",9,7,Other Body Fluid
-"Magnesium, Urine",1501,1307,Urine
-Marijuana,11403,4342,Urine
-Mesothelial Cell,8130,2770,Ascites
-Mesothelial Cells,4385,2909,Pleural
-Mesothelial Cells,332,311,Joint Fluid
-Mesothelial cells,1122,835,Other Body Fluid
-Mesothelial cells,92,76,Cerebrospinal Fluid
-Metamyelocytes,225553,48304,Blood
-Metamyelocytes,135,102,Cerebrospinal Fluid
-Metamyelocytes,22,22,Other Body Fluid
-Metamyelocytes,19,18,Ascites
-Metamyelocytes,13,13,Joint Fluid
-Metamyelocytes,24,23,Pleural
-"Methadone, Urine",82397,47664,Urine
-Methemoglobin,5235,4723,Blood
-Methotrexate,5724,310,Blood
-Microcytes,254133,60367,Blood
-"Miscellaneous, Ascites",36,36,Ascites
-"Miscellaneous, Body Fluid",746,638,Other Body Fluid
-"Miscellaneous, CSF",513,318,Cerebrospinal Fluid
-"Miscellaneous, Pleural",1611,1139,Pleural
-Monocyte Count,36,17,Blood
-Monocytes,1294509,247997,Blood
-Monocytes,11940,3671,Ascites
-Monocytes,18794,9957,Cerebrospinal Fluid
-Monocytes,6326,4241,Joint Fluid
-Monos,7826,4436,Pleural
-Monos,4920,3369,Other Body Fluid
-"Monospot, Rapid Antigen",54,50,Blood
-Mumps IgG Ab,458,448,Blood
-Mumps IgG Ab Value,460,450,Blood
-Myelocytes,224121,47967,Blood
-Myelocytes,66,53,Cerebrospinal Fluid
-Myelocytes,15,15,Pleural
-Myelocytes,14,14,Ascites
-Myelocytes,8,8,Joint Fluid
-Myelocytes,10,10,Other Body Fluid
-"Myoglobin, Urine",437,396,Urine
-N-Acetylprocainamide (NAPA),24,10,Blood
-NRBC,413,319,Cerebrospinal Fluid
-NRBC,70,69,Joint Fluid
-NRBC,140,137,Pleural
-NRBC,88,85,Other Body Fluid
-NTproBNP,67459,29736,Blood
-Neisseria gonorrhoeae,8426,5170,Other Body Fluid
-Neisseria gonorrhoeae,7025,5195,Urine
-Neutrophils,1294510,247997,Blood
-Neutrophils,88,80,Blood
-Nitrite,707824,197748,Urine
-Nitrite,531,370,Urine
-Non-squamous Epithelial Cells,192,191,Urine
-NonSquamous Epithelial Cell,748,726,Urine
-Norovirus Genogroup I,1451,1213,Stool
-Norovirus Genogroup II,1451,1213,Stool
-Nucleated RBC,163,145,Ascites
-Nucleated Red Cells,83255,26817,Blood
-O2 Flow,9919,6651,Blood
-"Opiate Screen, Urine",83463,47867,Urine
-"Osmolality, Ascites",7,5,Ascites
-"Osmolality, Body Fluid",10,10,Other Body Fluid
-"Osmolality, Measured",41890,13644,Blood
-"Osmolality, Stool",236,203,Stool
-"Osmolality, Urine",51538,23935,Urine
-Osmotic Fragility,7,7,Blood
-Other,3085,2142,Pleural
-Other,1957,1017,Cerebrospinal Fluid
-Other,2678,1587,Ascites
-Other,912,792,Joint Fluid
-Other Cell,1708,1380,Other Body Fluid
-Other Cells,10294,3071,Blood
-Oval Fat Body,33,32,Urine
-Ovalocytes,125738,30488,Blood
-Oxycodone,33476,21898,Urine
-Oxygen,91758,21447,Blood
-Oxygen Saturation,182731,34461,Blood
-P50 of Hemoglobin,1,1,Blood
-PAN1,7039,5204,Urine
-PAN1,8423,5167,Other Body Fluid
-PAN2,886,729,Urine
-PAN2,2072,1502,Other Body Fluid
-PAN3,1080,517,Blood
-PEEP,59937,13829,Blood
-"PEP, CSF",815,588,Cerebrospinal Fluid
-PT,1446375,165405,Blood
-PTT,1303590,161671,Blood
-Pappenheimer Bodies,4885,3075,Blood
-Parathyroid Hormone,50993,16572,Blood
-Pencil Cells,2460,1666,Blood
-Phenobarbital,4057,813,Blood
-Phenytoin,23648,4051,Blood
-"Phenytoin, Free",775,346,Blood
-"Phenytoin, Percent Free",741,338,Blood
-Phosphate,2117240,164458,Blood
-"Phosphate, Body Fluid",11,9,Other Body Fluid
-"Phosphate, Urine",3146,2634,Urine
-Plasma,637,446,Ascites
+CD71,195,185,Blood
 Plasma,194,125,Cerebrospinal Fluid
-Plasma,14,14,Joint Fluid
-Plasma,58,57,Other Body Fluid
-Plasma Cells,1834,1209,Blood
-Plasma Cells,513,420,Pleural
-Platelet Clumps,370,312,Blood
-Platelet Count,3333297,269788,Blood
-Platelet Smear,276383,61689,Blood
-Poikilocytosis,259997,61691,Blood
-Polychromasia,255890,61399,Blood
-Polys,18794,9957,Cerebrospinal Fluid
-Polys,11940,3671,Ascites
-Polys,7826,4436,Pleural
-Polys,6326,4241,Joint Fluid
-Polys,4920,3369,Other Body Fluid
-Porphobilinogen Screen,486,413,Urine
-Potassium,3270701,250722,Blood
-Potassium,374,318,Blood
-"Potassium, Ascites",42,32,Ascites
-"Potassium, Body Fluid",39,34,Other Body Fluid
-"Potassium, Pleural",8,8,Pleural
-"Potassium, Stool",243,205,Stool
-"Potassium, Urine",42077,20953,Urine
-"Potassium, Whole Blood",255987,67563,Blood
-Problem Specimen,25584,20055,Blood
-Procainamide,24,10,Blood
-Prolactin,10039,6301,Blood
-Promyelocytes,10247,3392,Blood
-Promyelocytes,60,47,Cerebrospinal Fluid
-Promyelocytes,31,31,Pleural
-Promyelocytes,11,11,Other Body Fluid
-Promyelocytes,10,10,Joint Fluid
-Promyelocytes,17,17,Ascites
-Prostate Specific Antigen,60504,18655,Blood
-"Prot. Electrophoresis, Urine",19941,9563,Urine
-Protein,707826,197748,Urine
-Protein,531,370,Urine
-"Protein C, Antigen",138,137,Blood
-"Protein C, Functional",1653,1542,Blood
-Protein Electrophoresis,43831,19682,Blood
+"Bicarbonate, Other Fluid",193,67,Other Body Fluid
+CD5 %,193,154,Blood
+CD5 Absolute Count,193,154,Blood
+Non-squamous Epithelial Cells,192,191,Urine
+Basophils,191,178,Other Body Fluid
+Factor VIII Inhibitor,191,49,Blood
+Glyco A,191,183,Blood
+Bands,190,174,Other Body Fluid
+CD41,190,180,Blood
+Influenza A by PCR,190,185,Other Body Fluid
+Influenza B by PCR,190,185,Other Body Fluid
+Bands,187,176,Pleural
 "Protein S, Antigen",178,169,Blood
-"Protein S, Functional",1538,1437,Blood
-"Protein, Total",162472,48204,Blood
-Protein/Creatinine Ratio,79289,18148,Urine
-Quantitative G6PD,3271,2972,Blood
-RBC,497735,154924,Urine
-RBC Casts,93,93,Urine
-RBC Clumps,36,36,Urine
-RBC Morphology,19079,5119,Blood
-"RBC, Ascites",11704,3606,Ascites
-"RBC, CSF",18647,9921,Cerebrospinal Fluid
-"RBC, Joint Fluid",5556,3843,Joint Fluid
-"RBC, Other Fluid",1918,1249,Other Body Fluid
-"RBC, Pleural",7237,4162,Pleural
-RDW,3278433,269302,Blood
-RDW-SD,1361263,130663,Blood
-RFXLDLM,1508,1081,Blood
-RFXUCU,1175,841,Urine
-RUBIgGV,820,800,Blood
-RUN,5,5,Urine
-Rapamycin,11506,496,Blood
-Red Blood Cell Fragments,5,3,Blood
-Red Blood Cells,3278658,269311,Blood
-Red Top Hold,178416,75214,Blood
-"Reducing Substances, Urine",336,270,Urine
-Reflex Confirmatory Hepatitis C Viral Load,79,78,Blood
-Reflex HIV Confirmation,27,26,Blood
-Renal Epithelial Cells,7310,6329,Urine
-Reptilase Time,6,5,Blood
-Reptilase Time Control,5,4,Blood
-Required O2,14442,7676,Blood
-"Reticulocyte Count, Absolute",25994,13451,Blood
-"Reticulocyte Count, Automated",53793,28082,Blood
-"Reticulocyte Count, Manual",4584,2721,Blood
-Rheumatoid Factor,10916,9295,Blood
-Ristocetin,133,121,Blood
-Rouleaux,52,46,Blood
-Rubella IgG Ab,816,797,Blood
-Rubeola IgG Ab,548,539,Blood
-Rubeola IgG Ab Value,550,541,Blood
-SCT - Confirmation,40,38,Blood
-SCT - Normalized Ratio,40,38,Blood
-SCT - Screen,310,292,Blood
-SKIP,4,4,Urine
-STX1,26824,19812,Blood
-STX2,28422,19696,Blood
-STX3,27326,20035,Blood
-STX4,12791,10105,Blood
-STX5,12797,10101,Blood
-STX6,26599,19718,Blood
-Salicylate,88086,56236,Blood
-Schistocytes,67369,20214,Blood
-Sedimentation Rate,63701,27299,Blood
-Serum Viscosity,1470,370,Blood
-Sex Hormone Binding Globulin,7292,4041,Blood
-Sickle Cell Preparation,754,724,Blood
-Sickle Cells,787,160,Blood
-Sodium,3239236,250592,Blood
-Sodium,374,318,Blood
-"Sodium, Ascites",55,41,Ascites
-"Sodium, Body Fluid",43,37,Other Body Fluid
-"Sodium, Pleural",10,9,Pleural
-"Sodium, Stool",245,206,Stool
-"Sodium, Urine",68894,30464,Urine
-"Sodium, Whole Blood",116340,45228,Blood
-Specific Gravity,707831,197748,Urine
-Specific Gravity,531,370,Urine
-Specimen Type,655495,72669,Blood
-Sperm,823,679,Urine
-Spherocytes,19462,7562,Blood
-Staph aureus PCR,790,752,Other Body Fluid
-Stat,7,6,Blood
-Stomatocyte,92,84,Blood
-"Strep A, Rapid Antigen",1264,1063,Other Body Fluid
-"Strep A, Rapid Antigen",235,197,Other Body Fluid
-Study Tubes,1240,401,Blood
-Study Urine,277,95,Urine
-Sulfonamides,8,8,Urine
-Surfactant/Albumin,36,33,Other Body Fluid
-TCR Alpha-Beta,4,4,Bone Marrow
-TCR Alpha-Beta,6,6,Blood
-TCR Gamma-Delta,6,6,Blood
-TCR Gamma-Delta,4,4,Bone Marrow
-Target Cells,24815,11250,Blood
-TdT,64,49,Bone Marrow
-TdT,46,42,Blood
-TdT,13,12,Other Body Fluid
-Teardrop Cells,78221,19628,Blood
-Temperature,107693,21896,Blood
-Testosterone,17852,7883,Blood
-"Testosterone, Free",2247,1613,Blood
-Theophylline,111,72,Blood
-Thrombin,2023,1580,Blood
-Thyroglobulin,5021,1507,Blood
-Thyroid Peroxidase Antibodies,5195,4591,Blood
-Thyroid Stimulating Hormone,328894,104624,Blood
-Thyroxine (T4),22471,11732,Blood
-"Thyroxine (T4), Free",105748,38892,Blood
-Tidal Volume,51004,13908,Blood
-"Tissue Transglutaminase Ab, IgA",16042,13256,Blood
-Tobramycin,1981,654,Blood
-Total CO2,350,301,Blood
-Total Collection Time,651,396,Urine
-"Total Nucleated Cells, Ascites",11940,3671,Ascites
-"Total Nucleated Cells, CSF",18785,9956,Cerebrospinal Fluid
-"Total Nucleated Cells, Joint",6329,4243,Joint Fluid
-"Total Nucleated Cells, Other",2240,1536,Other Body Fluid
-"Total Nucleated Cells, Pleural",7827,4436,Pleural
-"Total Protein, Ascites",7468,3024,Ascites
-"Total Protein, Body Fluid",719,678,Other Body Fluid
-"Total Protein, CSF",14006,9829,Cerebrospinal Fluid
-"Total Protein, Joint Fluid",132,125,Joint Fluid
-"Total Protein, Pleural",7587,4390,Pleural
-"Total Protein, Urine",92166,22634,Urine
-Toxoplasma IgG Ab,425,386,Blood
-Toxoplasma IgG Ab Value,413,385,Blood
-Toxoplasma IgM Ab,106,89,Blood
-Toxoplasma IgM Ab Value,97,89,Blood
-Toxoplasma Interpretation,425,386,Blood
-Transferrin,108027,50656,Blood
-Transitional Epithelial Cells,65440,38692,Urine
-Treponema pallidum (Syphilis) Ab,2761,2479,Blood
-Treponema pallidum (syphilis) value,2741,2467,Blood
-Trichomonas,155,134,Urine
-Trichomonas vaginalis,885,729,Urine
-Trichomonas vaginalis,2078,1507,Other Body Fluid
-Tricyclic Antidepressant Screen,87085,55896,Blood
-Triglycer,143,113,Other Body Fluid
-Triglycerides,263751,90001,Blood
-"Triglycerides, Ascites",436,301,Ascites
-"Triglycerides, Pleural",1652,1168,Pleural
-Triiodothyronine (T3),19919,9050,Blood
-Triple Phosphate Crystals,1215,887,Urine
-Troponin I,146,133,Blood
-Troponin T,370876,92337,Blood
-Tyrosine Crystals,8,7,Urine
-UCU1,856,618,Urine
-UCU2,2281,1553,Urine
-UTX1,27081,18441,Urine
-UTX10,284,269,Urine
-UTX2,26598,18392,Urine
-UTX3,27051,18358,Urine
-UTX4,27252,18506,Urine
-UTX5,27053,18451,Urine
-UTX6,26106,17698,Urine
-UTX7,26943,18379,Urine
-UTX9,2951,1324,Urine
-Uhold,157307,84035,Urine
-Uptake Ratio,8230,3739,Blood
-Urea Nitrogen,3283383,250978,Blood
-Urea Nitrogen,352,301,Blood
-"Urea Nitrogen, Ascites",24,23,Ascites
-"Urea Nitrogen, Body Fluid",52,41,Other Body Fluid
-"Urea Nitrogen, Pleural",1,1,Pleural
-"Urea Nitrogen, Urine",35005,19227,Urine
-Uric Acid,135511,24550,Blood
-Uric Acid Crystals,2433,2139,Urine
-"Uric Acid, Joint Fluid",1,1,Joint Fluid
-"Uric Acid, Urine",1630,1459,Urine
-Urine Appearance,707831,197748,Urine
-"Urine Casts, Other",415,412,Urine
-Urine Color,132289,67308,Urine
-Urine Creatinine,651,396,Urine
-"Urine Crystals, Other",400,397,Urine
-Urine Fat Bodies,75,75,Urine
-Urine Mucous,327992,123447,Urine
-Urine Specimen Type,4750,3306,Urine
-Urine Volume,10834,6103,Urine
-"Urine Volume, Total",651,396,Urine
-"Urine tube, held",134936,85056,Urine
-Urobilinogen,707824,197748,Urine
-Urobilinogen,531,370,Urine
-VZV IgG Ab,795,773,Blood
-VZV IgG Ab Value,796,773,Blood
-Valproic Acid,12194,3184,Blood
-Vancomycin,103199,24713,Blood
-Ventilation Rate,56733,15680,Blood
-Ventilator,59468,22710,Blood
-Vitamin B12,106649,54927,Blood
-Voided Specimen,695,685,Urine
-Voided Specimen,3223,2443,Blood
-Voided Specimen,6336,5293,Blood
-Voided Specimen,16467,10599,Blood
-Voided Specimen,3627,2368,Urine
-Voided Specimen,5,5,Other Body Fluid
-Voided Specimen,36,33,Cerebrospinal Fluid
-Voided Specimen,294,266,Stool
-Voided Specimen,317,300,Other Body Fluid
-Voided Specimen,68,56,Ascites
-Voided Specimen,51,48,Other Body Fluid
-Voided Specimen,16,14,Pleural
-Voided Specimen,11,9,Joint Fluid
-Voided Specimen,1,1,Ascites
-Voided Specimen,3,2,Joint Fluid
-Voided Specimen,1,1,Pleural
-Voided Specimen,3,2,Cerebrospinal Fluid
-Voided Specimen,3,3,Stool
-Von Willebrand Factor Activity,1121,744,Blood
-Von Willebrand Factor Antigen,1145,769,Blood
-WBC,497735,154925,Urine
-WBC Casts,626,611,Urine
-WBC Clumps,18650,11262,Urine
-WBC Count,27148,4693,Blood
-Waxy Casts,287,283,Urine
-White Blood Cells,3283948,269355,Blood
-White Blood Cells,211,191,Blood
-Wright Giemsa,3153,1371,Bone Marrow
-XUCU,3158,2095,Urine
-Yeast,497732,154923,Urine
-Young,4,4,Cerebrospinal Fluid
-Young,3,3,Ascites
-Young,1,1,Other Body Fluid
+Basophils,172,165,Joint Fluid
+"Glucose, Joint Fluid",171,162,Joint Fluid
 Young Cells,168,141,Blood
-Young Cells,1,1,Pleural
+"Bilirubin, Total, Pleural",167,141,Pleural
+Nucleated RBC,163,145,Ascites
+Ethylene Glycol,160,118,Blood
+CD57,159,147,Blood
+Epinepherine,155,134,Blood
+Trichomonas,155,134,Urine
+Anti-Parietal Cell Antibody,151,144,Blood
+"Hematocrit, CSF",146,107,Cerebrospinal Fluid
+Troponin I,146,133,Blood
+CD16/56,145,121,Bone Marrow
+Atypical Lymphocytes,143,136,Other Body Fluid
+Triglycer,143,113,Other Body Fluid
+NRBC,140,137,Pleural
+Atypical Lymphocytes,139,134,Joint Fluid
+"Protein C, Antigen",138,137,Blood
+Lining Cell,137,114,Other Body Fluid
+Metamyelocytes,135,102,Cerebrospinal Fluid
+Ristocetin,133,121,Blood
+"Glucose, Urine",132,111,Urine
+"Total Protein, Joint Fluid",132,125,Joint Fluid
+"Anti-Gliadin Antibody, IgA",123,118,Blood
+"Amylase, Urine",117,81,Urine
+"Amylase/Creatinine Ratio, Urine",115,80,Urine
+Lining Cell,115,109,Joint Fluid
+Theophylline,111,72,Blood
 dRVVT - Confirmation,108,102,Blood
 dRVVT - Normalized Ratio,108,102,Blood
-dRVVT - Screen,416,374,Blood
-eAG,199467,70705,Blood
-pCO2,561473,60944,Blood
+CD16,107,102,Blood
+Toxoplasma IgM Ab,106,89,Blood
+CD13,104,70,Other Body Fluid
+EE5,99,97,Blood
+"Ethanol, Urine",99,53,Urine
+"Influenza A, Rapid Antigen",99,92,Other Body Fluid
+"Influenza B, Rapid Antigen",99,92,Other Body Fluid
+Broad Casts,97,97,Urine
+Toxoplasma IgM Ab Value,97,89,Blood
+"Chloride, Stool",94,84,Stool
+"Lipase, Ascites",94,72,Ascites
+RBC Casts,93,93,Urine
+CD38,92,86,Blood
+Factor XIII,92,74,Blood
+Mesothelial cells,92,76,Cerebrospinal Fluid
+Stomatocyte,92,84,Blood
+Bilirubin Crystals,88,86,Urine
+NRBC,88,85,Other Body Fluid
+Neutrophils,88,80,Blood
+CD16/56,87,84,Other Body Fluid
+Blasts,86,21,Cerebrospinal Fluid
+CD25,82,66,Blood
+Reflex Confirmatory Hepatitis C Viral Load,79,78,Blood
+Urine Fat Bodies,75,75,Urine
+Bleeding Time,70,66,Blood
+CD22,70,56,Blood
+NRBC,70,69,Joint Fluid
+CD56,68,57,Other Body Fluid
+Voided Specimen,68,56,Ascites
+Factor XII,67,63,Blood
+Myelocytes,66,53,Cerebrospinal Fluid
+CD103,64,50,Blood
+TdT,64,49,Bone Marrow
+CD117,63,44,Other Body Fluid
+CD25,63,49,Bone Marrow
+Promyelocytes,60,47,Cerebrospinal Fluid
+CD15,58,41,Other Body Fluid
+Plasma,58,57,Other Body Fluid
+ANCA Titer,57,39,Blood
+Call,57,47,Blood
+Calcium Phosphate Crystals,56,55,Urine
+"Sodium, Ascites",55,41,Ascites
+"Lipase, Body Fluid",54,39,Other Body Fluid
+"Monospot, Rapid Antigen",54,50,Blood
+Rouleaux,52,46,Blood
+"Urea Nitrogen, Body Fluid",52,41,Other Body Fluid
+Leukocyte Alkaline Phosphatase,51,45,Blood
+Voided Specimen,51,48,Other Body Fluid
+CD33,50,38,Other Body Fluid
+CD38,50,41,Other Body Fluid
+CD4/CD8 Ratio,50,48,Other Body Fluid
+"Bicarbonate, Stool",49,37,Stool
+"Cholesterol, Ascites",49,46,Ascites
+CD38,48,39,Bone Marrow
+Fax,46,45,Blood
+TdT,46,42,Blood
+CD22,45,37,Bone Marrow
+CD138,44,37,Other Body Fluid
+"Sodium, Body Fluid",43,37,Other Body Fluid
+Hemoglobin Other,42,39,Blood
+"Potassium, Ascites",42,32,Ascites
+CD14,41,33,Other Body Fluid
+"LD, Joint Fluid",41,40,Joint Fluid
+SCT - Confirmation,40,38,Blood
+SCT - Normalized Ratio,40,38,Blood
+"Chloride, Ascites",39,29,Ascites
+D-Dimer,39,39,Blood
+"Potassium, Body Fluid",39,34,Other Body Fluid
+CD103,38,31,Bone Marrow
+<Albumin>,37,37,Cerebrospinal Fluid
+"Bicarbonate, Ascites",37,26,Ascites
+CD57,37,34,Bone Marrow
+Lining Cell,37,30,Cerebrospinal Fluid
+"Miscellaneous, Ascites",36,36,Ascites
+Monocyte Count,36,17,Blood
+RBC Clumps,36,36,Urine
+Surfactant/Albumin,36,33,Other Body Fluid
+Voided Specimen,36,33,Cerebrospinal Fluid
+"Chloride, Body Fluid",34,28,Other Body Fluid
+INR(PT),34,32,Blood
+CD64,33,27,Other Body Fluid
+Oval Fat Body,33,32,Urine
+Epithelial Casts,31,31,Urine
+Macro Prolactin,31,27,Blood
+Promyelocytes,31,31,Pleural
+CD11c,30,27,Other Body Fluid
+CD16,29,29,Bone Marrow
+Reflex HIV Confirmation,27,26,Blood
+Ammonium Biurate,25,25,Urine
+Metamyelocytes,24,23,Pleural
+N-Acetylprocainamide (NAPA),24,10,Blood
+Procainamide,24,10,Blood
+"Urea Nitrogen, Ascites",24,23,Ascites
+CD25,23,19,Other Body Fluid
+Metamyelocytes,22,22,Other Body Fluid
+Metamyelocytes,19,18,Ascites
+CD22,17,16,Other Body Fluid
+Cholesterol Crystals,17,17,Urine
+Promyelocytes,17,17,Ascites
+CD138,16,15,Bone Marrow
+CD57,16,14,Other Body Fluid
+Voided Specimen,16,14,Pleural
+CD16,15,13,Other Body Fluid
+CD41,15,14,Other Body Fluid
+CD71,15,14,Other Body Fluid
+Calcium Carbonate Crystals,15,15,Urine
+"Cholesterol, Body Fluid",15,15,Other Body Fluid
+Cysteine Crystals,15,14,Urine
+HIV 1 Viral Load,15,14,Cerebrospinal Fluid
+Hematocrit,15,14,Urine
+Myelocytes,15,15,Pleural
+Glyco A,14,13,Other Body Fluid
+Myelocytes,14,14,Ascites
+Plasma,14,14,Joint Fluid
+Metamyelocytes,13,13,Joint Fluid
+TdT,13,12,Other Body Fluid
+CD138,12,11,Blood
+Blasts,11,10,Pleural
+CD103,11,10,Other Body Fluid
+"Calcium, Body Fluid",11,9,Other Body Fluid
+HPE9,11,11,Blood
+"Phosphate, Body Fluid",11,9,Other Body Fluid
+Promyelocytes,11,11,Other Body Fluid
+Voided Specimen,11,9,Joint Fluid
+Free Fat,10,10,Urine
+Myelocytes,10,10,Other Body Fluid
+"Osmolality, Body Fluid",10,10,Other Body Fluid
+Promyelocytes,10,10,Joint Fluid
+"Sodium, Pleural",10,9,Pleural
+"Albumin, Joint Fluid",9,9,Joint Fluid
+CD56 %,9,6,Blood
+CD56 Absolute Count,9,6,Blood
+"Lipase, Pleural",9,9,Pleural
+"Magnesium, Body Fluid",9,7,Other Body Fluid
+Myelocytes,8,8,Joint Fluid
+"Potassium, Pleural",8,8,Pleural
+Sulfonamides,8,8,Urine
+Tyrosine Crystals,8,7,Urine
+"Osmolality, Ascites",7,5,Ascites
+Osmotic Fragility,7,7,Blood
+Stat,7,6,Blood
+"Amylase, Joint Fluid",6,5,Joint Fluid
+"Bicarbonate, Pleural",6,6,Pleural
+CD 1a,6,2,Bone Marrow
+CD55,6,6,Bone Marrow
+Reptilase Time,6,5,Blood
+TCR Alpha-Beta,6,6,Blood
+TCR Gamma-Delta,6,6,Blood
+CD59,5,5,Bone Marrow
+Cben,5,5,Urine
+"Chloride, Pleural",5,5,Pleural
+Hyphenated Yeast,5,5,Urine
+Leucine Crystals,5,5,Urine
+RUN,5,5,Urine
+Red Blood Cell Fragments,5,3,Blood
+Reptilase Time Control,5,4,Blood
+Voided Specimen,5,5,Other Body Fluid
+APT Test,4,4,Blood
+"Bilirubin, Total, CSF",4,4,Cerebrospinal Fluid
+SKIP,4,4,Urine
+TCR Alpha-Beta,4,4,Bone Marrow
+TCR Gamma-Delta,4,4,Bone Marrow
+Young,4,4,Cerebrospinal Fluid
+Blasts,3,3,Ascites
+Blasts,3,3,Other Body Fluid
+CD 1a,3,3,Blood
+Voided Specimen,3,2,Joint Fluid
+Voided Specimen,3,2,Cerebrospinal Fluid
+Voided Specimen,3,3,Stool
+Young,3,3,Ascites
+Billed,2,2,Blood
+CD 1a,2,2,Other Body Fluid
+"Creatinine, Joint Fluid",2,2,Joint Fluid
+DirList,2,2,Urine
+DirLst,2,2,Blood
+Fatty Casts,2,2,Urine
+GATE,2,2,Urine
+Hypersegmented Neutrophils,2,2,Other Body Fluid
 "pCO2, Body Fluid",2,2,Other Body Fluid
-pH,617021,65644,Blood
-pH,707831,197748,Urine
-pH,10708,6037,Urine
-pH,5437,3452,Other Body Fluid
-pH,531,370,Urine
-pO2,561664,60938,Blood
 "pO2, Body Fluid",2,2,Other Body Fluid
-"proBNP, Pleural",1094,668,Pleural
-tacroFK,98225,2034,Blood
-wbcp,4920,3844,Blood
+"Albumin, Stool",1,1,Stool
+Blasts,1,1,Joint Fluid
+Camp,1,1,Urine
+"Chloride, CSF",1,1,Cerebrospinal Fluid
+Factor IX Inhibitor,1,1,Blood
+Fl Scan,1,1,Other Body Fluid
+Hyperseg,1,1,Ascites
+P50 of Hemoglobin,1,1,Blood
+"Urea Nitrogen, Pleural",1,1,Pleural
+"Uric Acid, Joint Fluid",1,1,Joint Fluid
+Voided Specimen,1,1,Ascites
+Voided Specimen,1,1,Pleural
+Young,1,1,Other Body Fluid
+Young Cells,1,1,Pleural
