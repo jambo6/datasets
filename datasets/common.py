@@ -15,6 +15,13 @@ def make_directory_if_not_exists(path: Union[Path, str]) -> None:
         os.mkdir(path)
 
 
+def read_text_file(filename: str) -> str:
+    """Read a text file into a string"""
+    with open(filename) as file:
+        output = file.read()
+    return output
+
+
 def untar(tarname: Union[Path, str], extract_directory: Union[Path, str]) -> None:
     """Untar a filename to a specified location."""
     tar = tarfile.open(tarname)
