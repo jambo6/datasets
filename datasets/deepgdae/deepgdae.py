@@ -92,15 +92,3 @@ class DeepGdaeDownloader(DownloadBase):
             self._process_gad_data()
         else:
             logger.info("GAD data already exists, skipping.")
-
-
-if __name__ == "__main__":
-    DeepGdaeDownloader("../../data/deepgdae")._process()
-    import pickle
-
-    with open(
-        "../../data/deepgdae/Deep-GDAE-master/SNP_transfer_learning/data"
-        "/train_and_test_data_sentences_snp_2class_transfer.pickle",
-        "rb",
-    ) as file:
-        a = pickle.load(file)
